@@ -1,0 +1,1001 @@
+Invoice ID,Date,Time,Branch,City,Customer type,Gender,Product Line,Unit Price,Quantity,Cost,Tax 5%,Total Cost,Payment Mode,Gross Income,Gross Margin Percentage,Rating
+765-26-6951,01-01-2019,10:39:00,A,Mumbai,Normal,Male,Sports and travel,72.61,6,435.66,21.783,457.443,Credit Card,21.783,4.761904762,6.9
+530-90-9855,01-01-2019,14:47:00,A,Mumbai,Member,Male,Home and lifestyle,47.59,8,380.72,19.036,399.756,Cash,19.036,4.761904762,5.7
+891-01-7034,01-01-2019,19:07:00,B,Nashik,Normal,Female,Electronic accessories,74.71,6,448.26,22.413,470.673,Cash,22.413,4.761904762,6.7
+493-65-6248,01-01-2019,19:48:00,C,Pune,Member,Female,Sports and travel,36.98,10,369.8,18.49,388.29,Credit Card,18.49,4.761904762,7
+556-97-7101,01-01-2019,15:51:00,C,Pune,Normal,Female,Electronic accessories,63.22,2,126.44,6.322,132.762,Cash,6.322,4.761904762,8.5
+133-14-7229,01-01-2019,11:43:00,C,Pune,Normal,Male,Health and beauty,62.87,2,125.74,6.287,132.027,Cash,6.287,4.761904762,5
+651-88-7328,01-01-2019,13:55:00,A,Mumbai,Normal,Female,Fashion accessories,65.74,9,591.66,29.583,621.243,Cash,29.583,4.761904762,7.7
+182-52-7000,01-01-2019,20:26:00,A,Mumbai,Member,Female,Sports and travel,27.04,4,108.16,5.408,113.568,E-wallet,5.408,4.761904762,6.9
+416-17-9926,01-01-2019,14:42:00,A,Mumbai,Member,Female,Electronic accessories,74.22,10,742.2,37.11,779.31,Credit Card,37.11,4.761904762,4.3
+271-77-8740,01-01-2019,11:40:00,C,Pune,Member,Female,Sports and travel,29.22,6,175.32,8.766,184.086,E-wallet,8.766,4.761904762,5
+770-42-8960,01-01-2019,19:31:00,B,Nashik,Normal,Male,Food and beverages,21.12,8,168.96,8.448,177.408,Cash,8.448,4.761904762,6.3
+746-04-1077,01-01-2019,11:36:00,B,Nashik,Member,Female,Food and beverages,84.63,10,846.3,42.315,888.615,Credit Card,42.315,4.761904762,9
+551-21-3069,02-01-2019,11:27:00,C,Pune,Normal,Female,Electronic accessories,23.07,9,207.63,10.3815,218.0115,Cash,10.3815,4.761904762,4.9
+237-01-6122,02-01-2019,20:31:00,C,Pune,Member,Female,Home and lifestyle,80.79,9,727.11,36.3555,763.4655,Credit Card,36.3555,4.761904762,9.5
+105-31-1824,02-01-2019,15:10:00,A,Mumbai,Member,Male,Sports and travel,69.52,7,486.64,24.332,510.972,Credit Card,24.332,4.761904762,8.5
+870-76-1733,02-01-2019,10:08:00,A,Mumbai,Member,Female,Food and beverages,14.23,5,71.15,3.5575,74.7075,Credit Card,3.5575,4.761904762,4.4
+358-88-9262,02-01-2019,18:43:00,C,Pune,Member,Female,Food and beverages,87.48,6,524.88,26.244,551.124,E-wallet,26.244,4.761904762,5.1
+443-82-0585,02-01-2019,19:54:00,A,Mumbai,Member,Female,Health and beauty,77.68,4,310.72,15.536,326.256,Cash,15.536,4.761904762,8.4
+189-98-2939,03-01-2019,13:22:00,C,Pune,Normal,Male,Fashion accessories,78.55,9,706.95,35.3475,742.2975,Cash,35.3475,4.761904762,7.2
+453-63-6187,03-01-2019,15:40:00,B,Nashik,Normal,Male,Electronic accessories,27.5,3,82.5,4.125,86.625,E-wallet,4.125,4.761904762,6.5
+153-58-4872,03-01-2019,15:32:00,C,Pune,Member,Female,Food and beverages,74.89,4,299.56,14.978,314.538,E-wallet,14.978,4.761904762,4.2
+220-28-1851,03-01-2019,18:14:00,A,Mumbai,Normal,Male,Home and lifestyle,34.73,2,69.46,3.473,72.933,E-wallet,3.473,4.761904762,9.7
+339-96-8318,03-01-2019,19:49:00,B,Nashik,Member,Male,Fashion accessories,81.31,7,569.17,28.4585,597.6285,E-wallet,28.4585,4.761904762,6.3
+207-73-1363,03-01-2019,12:15:00,B,Nashik,Normal,Male,Health and beauty,69.51,2,139.02,6.951,145.971,E-wallet,6.951,4.761904762,8.1
+470-31-3286,03-01-2019,11:30:00,B,Nashik,Normal,Male,Health and beauty,14.82,3,44.46,2.223,46.683,Credit Card,2.223,4.761904762,8.7
+811-03-8790,03-01-2019,10:22:00,A,Mumbai,Normal,Female,Electronic accessories,45.48,10,454.8,22.74,477.54,Credit Card,22.74,4.761904762,4.8
+247-11-2470,03-01-2019,16:23:00,A,Mumbai,Member,Female,Fashion accessories,22.32,4,89.28,4.464,93.744,Credit Card,4.464,4.761904762,4.4
+238-45-6950,03-01-2019,20:03:00,B,Nashik,Member,Male,Food and beverages,53.72,1,53.72,2.686,56.406,E-wallet,2.686,4.761904762,6.4
+504-35-8843,01-02-2019,16:57:00,A,Mumbai,Normal,Male,Sports and travel,42.47,1,42.47,2.1235,44.5935,Cash,2.1235,4.761904762,5.7
+446-47-6729,01-02-2019,18:09:00,C,Pune,Normal,Male,Fashion accessories,99.82,2,199.64,9.982,209.622,Credit Card,9.982,4.761904762,6.7
+244-08-0162,01-02-2019,13:00:00,B,Nashik,Normal,Female,Health and beauty,34.21,10,342.1,17.105,359.205,Cash,17.105,4.761904762,5.1
+198-84-7132,01-02-2019,13:40:00,B,Nashik,Member,Male,Fashion accessories,40.61,9,365.49,18.2745,383.7645,Cash,18.2745,4.761904762,7
+744-09-5786,01-02-2019,18:50:00,B,Nashik,Normal,Male,Electronic accessories,22.01,6,132.06,6.603,138.663,Cash,6.603,4.761904762,7.6
+712-39-0363,01-02-2019,15:24:00,A,Mumbai,Member,Male,Food and beverages,41.66,6,249.96,12.498,262.458,E-wallet,12.498,4.761904762,5.6
+345-68-9016,01-02-2019,16:19:00,C,Pune,Member,Female,Sports and travel,31.67,8,253.36,12.668,266.028,Credit Card,12.668,4.761904762,5.6
+670-71-7306,01-02-2019,20:08:00,B,Nashik,Normal,Male,Sports and travel,44.63,6,267.78,13.389,281.169,Credit Card,13.389,4.761904762,5.1
+554-53-8700,02-02-2019,10:11:00,C,Pune,Member,Male,Home and lifestyle,56.11,2,112.22,5.611,117.831,Cash,5.611,4.761904762,6.3
+382-03-4532,02-02-2019,18:50:00,A,Mumbai,Member,Female,Health and beauty,18.33,1,18.33,0.9165,19.2465,Cash,0.9165,4.761904762,4.3
+642-32-2990,02-02-2019,20:48:00,A,Mumbai,Normal,Female,Food and beverages,10.96,10,109.6,5.48,115.08,E-wallet,5.48,4.761904762,6
+376-02-8238,02-02-2019,18:42:00,B,Nashik,Normal,Male,Home and lifestyle,93.87,8,750.96,37.548,788.508,Credit Card,37.548,4.761904762,8.3
+845-51-0542,02-02-2019,15:34:00,B,Nashik,Member,Male,Food and beverages,46.55,9,418.95,20.9475,439.8975,E-wallet,20.9475,4.761904762,6.4
+376-56-3573,02-02-2019,13:23:00,C,Pune,Normal,Female,Fashion accessories,95.42,4,381.68,19.084,400.764,E-wallet,19.084,4.761904762,6.4
+201-86-2184,02-02-2019,19:40:00,B,Nashik,Member,Female,Electronic accessories,26.26,7,183.82,9.191,193.011,Cash,9.191,4.761904762,9.9
+405-31-3305,02-02-2019,18:31:00,A,Mumbai,Member,Male,Fashion accessories,43.13,10,431.3,21.565,452.865,Credit Card,21.565,4.761904762,5.5
+541-08-3113,02-02-2019,20:29:00,C,Pune,Normal,Male,Food and beverages,65.97,8,527.76,26.388,554.148,Cash,26.388,4.761904762,8.4
+420-18-8989,02-02-2019,15:47:00,A,Mumbai,Member,Female,Sports and travel,51.52,8,412.16,20.608,432.768,Cash,20.608,4.761904762,9.6
+418-05-0656,02-02-2019,20:42:00,B,Nashik,Normal,Female,Fashion accessories,25.56,7,178.92,8.946,187.866,Cash,8.946,4.761904762,7.1
+390-17-5806,02-02-2019,16:33:00,C,Pune,Member,Female,Food and beverages,38.42,1,38.42,1.921,40.341,Cash,1.921,4.761904762,8.6
+717-96-4189,02-02-2019,12:40:00,C,Pune,Normal,Female,Electronic accessories,35.49,6,212.94,10.647,223.587,Cash,10.647,4.761904762,4.1
+756-93-1854,02-02-2019,14:05:00,C,Pune,Member,Female,Fashion accessories,83.35,2,166.7,8.335,175.035,Credit Card,8.335,4.761904762,9.5
+549-59-1358,03-02-2019,17:36:00,A,Mumbai,Member,Male,Sports and travel,88.63,3,265.89,13.2945,279.1845,E-wallet,13.2945,4.761904762,6
+225-98-1496,03-02-2019,13:01:00,C,Pune,Normal,Female,Fashion accessories,27.02,3,81.06,4.053,85.113,Credit Card,4.053,4.761904762,7.1
+817-69-8206,03-02-2019,19:42:00,B,Nashik,Normal,Female,Electronic accessories,99.73,9,897.57,44.8785,942.4485,Credit Card,44.8785,4.761904762,6.5
+346-84-3103,03-02-2019,19:26:00,B,Nashik,Member,Female,Electronic accessories,13.22,5,66.1,3.305,69.405,Cash,3.305,4.761904762,4.3
+883-17-4236,03-02-2019,19:44:00,C,Pune,Normal,Female,Sports and travel,14.39,2,28.78,1.439,30.219,Credit Card,1.439,4.761904762,7.2
+565-67-6697,03-02-2019,14:16:00,B,Nashik,Member,Male,Home and lifestyle,27,9,243,12.15,255.15,Cash,12.15,4.761904762,4.8
+878-30-2331,03-02-2019,11:22:00,C,Pune,Member,Female,Sports and travel,54.55,10,545.5,27.275,572.775,Credit Card,27.275,4.761904762,7.1
+408-26-9866,03-02-2019,16:42:00,C,Pune,Normal,Female,Sports and travel,73.98,7,517.86,25.893,543.753,E-wallet,25.893,4.761904762,4.1
+576-31-4774,03-02-2019,13:10:00,B,Nashik,Normal,Female,Health and beauty,73.41,3,220.23,11.0115,231.2415,E-wallet,11.0115,4.761904762,4
+640-48-5028,03-02-2019,12:40:00,B,Nashik,Member,Female,Home and lifestyle,88.39,9,795.51,39.7755,835.2855,Cash,39.7755,4.761904762,6.3
+860-73-6466,03-02-2019,16:16:00,A,Mumbai,Member,Female,Sports and travel,39.47,2,78.94,3.947,82.887,Credit Card,3.947,4.761904762,5
+607-76-6216,03-02-2019,16:35:00,C,Pune,Member,Female,Fashion accessories,92.49,5,462.45,23.1225,485.5725,Credit Card,23.1225,4.761904762,8.6
+725-54-0677,03-02-2019,13:50:00,C,Pune,Member,Male,Health and beauty,85.6,7,599.2,29.96,629.16,Cash,29.96,4.761904762,5.3
+636-98-3364,03-02-2019,12:36:00,B,Nashik,Member,Female,Electronic accessories,26.26,3,78.78,3.939,82.719,E-wallet,3.939,4.761904762,6.3
+825-94-5922,03-02-2019,19:26:00,B,Nashik,Normal,Male,Sports and travel,25.31,2,50.62,2.531,53.151,E-wallet,2.531,4.761904762,7.2
+720-72-2436,03-02-2019,18:14:00,A,Mumbai,Normal,Male,Food and beverages,66.52,4,266.08,13.304,279.384,E-wallet,13.304,4.761904762,6.9
+172-42-8274,03-02-2019,18:18:00,B,Nashik,Normal,Female,Electronic accessories,38.27,2,76.54,3.827,80.367,Credit Card,3.827,4.761904762,5.8
+303-96-2227,03-02-2019,17:16:00,B,Nashik,Normal,Female,Home and lifestyle,97.38,10,973.8,48.69,1022.49,E-wallet,48.69,4.761904762,4.4
+249-42-3782,01-03-2019,11:36:00,A,Mumbai,Normal,Male,Health and beauty,70.01,5,350.05,17.5025,367.5525,E-wallet,17.5025,4.761904762,5.5
+749-24-1565,01-03-2019,12:02:00,A,Mumbai,Normal,Female,Health and beauty,23.03,9,207.27,10.3635,217.6335,E-wallet,10.3635,4.761904762,7.9
+687-15-1097,01-03-2019,19:17:00,C,Pune,Member,Female,Health and beauty,21.12,2,42.24,2.112,44.352,Cash,2.112,4.761904762,9.7
+422-29-8786,01-03-2019,16:47:00,A,Mumbai,Normal,Female,Home and lifestyle,67.09,5,335.45,16.7725,352.2225,Credit Card,16.7725,4.761904762,9.1
+343-87-0864,01-03-2019,10:30:00,C,Pune,Member,Male,Health and beauty,75.88,1,75.88,3.794,79.674,Credit Card,3.794,4.761904762,7.1
+875-31-8302,01-03-2019,13:07:00,B,Nashik,Normal,Male,Sports and travel,93.38,1,93.38,4.669,98.049,Cash,4.669,4.761904762,9.6
+501-61-1753,01-03-2019,20:24:00,B,Nashik,Normal,Female,Home and lifestyle,63.15,6,378.9,18.945,397.845,E-wallet,18.945,4.761904762,9.8
+552-44-5977,01-03-2019,19:08:00,B,Nashik,Member,Male,Health and beauty,62,8,496,24.8,520.8,Credit Card,24.8,4.761904762,6.2
+326-78-5178,02-03-2019,10:19:00,C,Pune,Member,Male,Food and beverages,91.4,7,639.8,31.99,671.79,Cash,31.99,4.761904762,9.5
+347-34-2234,02-03-2019,13:40:00,B,Nashik,Member,Female,Sports and travel,55.07,9,495.63,24.7815,520.4115,E-wallet,24.7815,4.761904762,10
+430-60-3493,02-03-2019,14:38:00,A,Mumbai,Member,Female,Home and lifestyle,94.88,7,664.16,33.208,697.368,Cash,33.208,4.761904762,4.2
+566-71-1091,02-03-2019,15:59:00,A,Mumbai,Normal,Male,Fashion accessories,77.02,5,385.1,19.255,404.355,Cash,19.255,4.761904762,5.5
+639-76-1242,02-03-2019,15:19:00,C,Pune,Normal,Male,Food and beverages,40.52,5,202.6,10.13,212.73,Cash,10.13,4.761904762,4.5
+326-71-2155,02-03-2019,10:02:00,C,Pune,Normal,Female,Sports and travel,73.95,4,295.8,14.79,310.59,Cash,14.79,4.761904762,6.1
+277-63-2961,02-03-2019,15:53:00,B,Nashik,Member,Male,Sports and travel,73.97,1,73.97,3.6985,77.6685,Credit Card,3.6985,4.761904762,5.4
+718-57-9773,02-03-2019,16:40:00,C,Pune,Normal,Female,Sports and travel,49.33,10,493.3,24.665,517.965,Credit Card,24.665,4.761904762,9.4
+443-59-0061,02-03-2019,11:25:00,A,Mumbai,Member,Male,Food and beverages,67.45,10,674.5,33.725,708.225,E-wallet,33.725,4.761904762,4.2
+742-04-5161,02-03-2019,17:24:00,A,Mumbai,Member,Male,Home and lifestyle,72.78,10,727.8,36.39,764.19,Cash,36.39,4.761904762,7.3
+322-02-2271,02-03-2019,11:46:00,B,Nashik,Normal,Female,Sports and travel,42.97,3,128.91,6.4455,135.3555,Cash,6.4455,4.761904762,9.3
+585-86-8361,02-03-2019,10:31:00,A,Mumbai,Normal,Female,Food and beverages,27.28,5,136.4,6.82,143.22,Credit Card,6.82,4.761904762,8.6
+190-59-3964,02-03-2019,14:35:00,B,Nashik,Member,Male,Food and beverages,47.16,5,235.8,11.79,247.59,Credit Card,11.79,4.761904762,6
+676-10-2200,02-03-2019,20:13:00,B,Nashik,Member,Male,Fashion accessories,53.78,1,53.78,2.689,56.469,E-wallet,2.689,4.761904762,4.7
+631-41-3108,03-03-2019,13:23:00,A,Mumbai,Normal,Male,Home and lifestyle,46.33,7,324.31,16.2155,340.5255,Credit Card,16.2155,4.761904762,7.4
+777-82-7220,03-03-2019,13:01:00,B,Nashik,Member,Male,Home and lifestyle,30.12,8,240.96,12.048,253.008,Cash,12.048,4.761904762,7.7
+861-77-0145,03-03-2019,14:30:00,C,Pune,Member,Male,Electronic accessories,81.97,10,819.7,40.985,860.685,Cash,40.985,4.761904762,9.2
+733-33-4967,03-03-2019,19:17:00,C,Pune,Normal,Male,Electronic accessories,20.85,8,166.8,8.34,175.14,Cash,8.34,4.761904762,6.3
+175-54-2529,03-03-2019,17:01:00,A,Mumbai,Member,Male,Food and beverages,22.17,8,177.36,8.868,186.228,Credit Card,8.868,4.761904762,9.6
+305-14-0245,03-03-2019,19:00:00,B,Nashik,Member,Female,Home and lifestyle,94.49,8,755.92,37.796,793.716,E-wallet,37.796,4.761904762,7.5
+211-05-0490,03-03-2019,13:42:00,C,Pune,Member,Female,Electronic accessories,51.92,5,259.6,12.98,272.58,Cash,12.98,4.761904762,7.5
+568-88-3448,03-03-2019,15:09:00,A,Mumbai,Normal,Male,Health and beauty,25,1,25,1.25,26.25,E-wallet,1.25,4.761904762,5.5
+234-03-4040,03-03-2019,12:25:00,B,Nashik,Member,Female,Food and beverages,73.05,10,730.5,36.525,767.025,Credit Card,36.525,4.761904762,8.7
+302-15-2162,03-03-2019,10:54:00,C,Pune,Member,Male,Health and beauty,46.53,6,279.18,13.959,293.139,Credit Card,13.959,4.761904762,4.3
+610-46-4100,03-03-2019,20:31:00,A,Mumbai,Normal,Male,Health and beauty,28.95,7,202.65,10.1325,212.7825,Credit Card,10.1325,4.761904762,6
+468-99-7231,03-03-2019,17:36:00,C,Pune,Normal,Female,Home and lifestyle,44.01,8,352.08,17.604,369.684,Cash,17.604,4.761904762,8.8
+651-96-5970,03-03-2019,20:06:00,A,Mumbai,Normal,Male,Fashion accessories,46.41,1,46.41,2.3205,48.7305,Credit Card,2.3205,4.761904762,4
+324-41-6833,03-03-2019,19:30:00,C,Pune,Member,Female,Electronic accessories,30.2,8,241.6,12.08,253.68,E-wallet,12.08,4.761904762,5.1
+279-74-2924,01-04-2019,19:40:00,B,Nashik,Member,Male,Electronic accessories,72.17,1,72.17,3.6085,75.7785,Cash,3.6085,4.761904762,6.1
+672-51-8681,01-04-2019,18:19:00,C,Pune,Member,Female,Electronic accessories,66.65,9,599.85,29.9925,629.8425,Credit Card,29.9925,4.761904762,9.7
+656-16-1063,01-04-2019,13:24:00,B,Nashik,Normal,Male,Sports and travel,46.42,3,139.26,6.963,146.223,Credit Card,6.963,4.761904762,4.4
+731-14-2199,01-04-2019,13:34:00,A,Mumbai,Member,Female,Home and lifestyle,35.54,10,355.4,17.77,373.17,E-wallet,17.77,4.761904762,7
+725-32-9708,01-04-2019,19:01:00,B,Nashik,Member,Female,Fashion accessories,68.71,4,274.84,13.742,288.582,Cash,13.742,4.761904762,4.1
+132-23-6451,01-04-2019,13:21:00,A,Mumbai,Member,Male,Health and beauty,20.97,5,104.85,5.2425,110.0925,Cash,5.2425,4.761904762,7.8
+441-94-7118,02-04-2019,12:14:00,A,Mumbai,Member,Male,Electronic accessories,71.95,1,71.95,3.5975,75.5475,Cash,3.5975,4.761904762,7.3
+236-86-3015,02-04-2019,13:38:00,C,Pune,Member,Male,Home and lifestyle,13.98,1,13.98,0.699,14.679,E-wallet,0.699,4.761904762,9.8
+745-71-3520,02-04-2019,10:23:00,A,Mumbai,Member,Female,Electronic accessories,25.22,7,176.54,8.827,185.367,Cash,8.827,4.761904762,8.2
+627-95-3243,02-04-2019,13:21:00,B,Nashik,Member,Female,Home and lifestyle,77.68,9,699.12,34.956,734.076,E-wallet,34.956,4.761904762,9.8
+198-66-9832,02-04-2019,19:38:00,B,Nashik,Member,Female,Fashion accessories,72.04,2,144.08,7.204,151.284,Cash,7.204,4.761904762,9.5
+695-28-6250,02-04-2019,16:38:00,A,Mumbai,Normal,Female,Sports and travel,43.06,5,215.3,10.765,226.065,E-wallet,10.765,4.761904762,7.7
+518-17-2983,02-04-2019,15:44:00,A,Mumbai,Normal,Female,Fashion accessories,48.63,4,194.52,9.726,204.246,E-wallet,9.726,4.761904762,7.6
+268-20-3585,02-04-2019,12:50:00,C,Pune,Normal,Female,Health and beauty,13.85,9,124.65,6.2325,130.8825,E-wallet,6.2325,4.761904762,6
+434-35-9162,02-04-2019,18:53:00,B,Nashik,Member,Male,Food and beverages,23.34,4,93.36,4.668,98.028,E-wallet,4.668,4.761904762,7.4
+404-91-5964,02-04-2019,16:09:00,A,Mumbai,Normal,Male,Electronic accessories,74.58,7,522.06,26.103,548.163,Credit Card,26.103,4.761904762,9
+151-33-7434,02-04-2019,20:43:00,B,Nashik,Normal,Female,Food and beverages,67.77,1,67.77,3.3885,71.1585,Credit Card,3.3885,4.761904762,6.5
+228-96-1411,03-04-2019,20:39:00,C,Pune,Member,Female,Food and beverages,98.7,8,789.6,39.48,829.08,Cash,39.48,4.761904762,7.6
+586-25-0848,03-04-2019,11:19:00,A,Mumbai,Normal,Female,Sports and travel,12.34,7,86.38,4.319,90.699,Credit Card,4.319,4.761904762,6.7
+667-92-0055,03-04-2019,15:02:00,A,Mumbai,Member,Male,Health and beauty,99.83,6,598.98,29.949,628.929,E-wallet,29.949,4.761904762,8.5
+320-49-6392,03-04-2019,15:44:00,C,Pune,Normal,Female,Electronic accessories,30.24,1,30.24,1.512,31.752,Cash,1.512,4.761904762,8.4
+346-12-3257,03-04-2019,16:28:00,B,Nashik,Member,Male,Electronic accessories,19.24,9,173.16,8.658,181.818,Cash,8.658,4.761904762,8
+256-08-8343,03-04-2019,19:48:00,A,Mumbai,Normal,Female,Home and lifestyle,56.53,4,226.12,11.306,237.426,E-wallet,11.306,4.761904762,5.5
+227-50-3718,03-04-2019,12:23:00,A,Mumbai,Normal,Male,Health and beauty,14.62,5,73.1,3.655,76.755,Cash,3.655,4.761904762,4.4
+689-05-1884,03-04-2019,12:44:00,A,Mumbai,Member,Male,Health and beauty,48.63,10,486.3,24.315,510.615,Cash,24.315,4.761904762,8.8
+759-29-9521,03-04-2019,11:27:00,A,Mumbai,Member,Female,Fashion accessories,48.96,9,440.64,22.032,462.672,Cash,22.032,4.761904762,8
+276-75-6884,03-04-2019,10:05:00,A,Mumbai,Normal,Female,Health and beauty,68.71,3,206.13,10.3065,216.4365,Cash,10.3065,4.761904762,8.7
+558-60-5016,03-04-2019,15:27:00,A,Mumbai,Normal,Female,Home and lifestyle,33.3,9,299.7,14.985,314.685,E-wallet,14.985,4.761904762,7.2
+221-25-5073,03-04-2019,10:39:00,A,Mumbai,Normal,Female,Food and beverages,74.66,4,298.64,14.932,313.572,Cash,14.932,4.761904762,8.5
+750-67-8428,01-05-2019,13:08:00,A,Mumbai,Member,Female,Health and beauty,74.69,7,522.83,26.1415,548.9715,E-wallet,26.1415,4.761904762,9.1
+628-34-3388,01-05-2019,20:54:00,C,Pune,Normal,Male,Fashion accessories,27.38,6,164.28,8.214,172.494,Credit Card,8.214,4.761904762,7.9
+217-58-1179,01-05-2019,11:25:00,A,Mumbai,Member,Male,Home and lifestyle,62.65,4,250.6,12.53,263.13,Cash,12.53,4.761904762,4.2
+144-51-6085,01-05-2019,16:05:00,A,Mumbai,Member,Male,Home and lifestyle,70.74,4,282.96,14.148,297.108,Credit Card,14.148,4.761904762,4.4
+843-01-4703,01-05-2019,19:50:00,B,Nashik,Member,Female,Home and lifestyle,35.38,9,318.42,15.921,334.341,Credit Card,15.921,4.761904762,9.6
+573-98-8548,01-05-2019,12:40:00,C,Pune,Member,Female,Fashion accessories,31.9,1,31.9,1.595,33.495,E-wallet,1.595,4.761904762,9.1
+209-61-0206,01-05-2019,17:29:00,A,Mumbai,Normal,Female,Home and lifestyle,42.91,5,214.55,10.7275,225.2775,E-wallet,10.7275,4.761904762,6.1
+339-12-4827,01-05-2019,11:32:00,B,Nashik,Member,Female,Fashion accessories,73.96,1,73.96,3.698,77.658,Credit Card,3.698,4.761904762,5
+841-18-8232,01-05-2019,20:40:00,B,Nashik,Normal,Female,Food and beverages,71.2,1,71.2,3.56,74.76,Credit Card,3.56,4.761904762,9.2
+801-88-0346,01-05-2019,20:30:00,C,Pune,Normal,Female,Fashion accessories,76.06,3,228.18,11.409,239.589,Credit Card,11.409,4.761904762,9.8
+433-08-7822,01-05-2019,19:48:00,C,Pune,Normal,Female,Health and beauty,78.89,7,552.23,27.6115,579.8415,E-wallet,27.6115,4.761904762,7.5
+489-82-1237,01-05-2019,11:51:00,A,Mumbai,Normal,Female,Electronic accessories,93.88,7,657.16,32.858,690.018,Credit Card,32.858,4.761904762,7.3
+479-26-8945,02-05-2019,11:32:00,B,Nashik,Member,Female,Sports and travel,16.49,2,32.98,1.649,34.629,E-wallet,1.649,4.761904762,4.6
+210-67-5886,02-05-2019,10:41:00,C,Pune,Member,Female,Health and beauty,98.21,3,294.63,14.7315,309.3615,Credit Card,14.7315,4.761904762,7.8
+338-65-2210,02-05-2019,19:57:00,C,Pune,Member,Female,Health and beauty,68.6,10,686,34.3,720.3,Cash,34.3,4.761904762,9.1
+729-09-9681,02-05-2019,10:16:00,A,Mumbai,Member,Male,Home and lifestyle,25.91,6,155.46,7.773,163.233,E-wallet,7.773,4.761904762,8.7
+181-94-6432,02-05-2019,19:05:00,C,Pune,Member,Male,Fashion accessories,69.33,2,138.66,6.933,145.593,E-wallet,6.933,4.761904762,9.7
+374-17-3652,02-05-2019,15:26:00,B,Nashik,Member,Female,Food and beverages,42.82,9,385.38,19.269,404.649,Credit Card,19.269,4.761904762,8.9
+210-57-1719,02-05-2019,12:34:00,B,Nashik,Normal,Female,Health and beauty,58.24,9,524.16,26.208,550.368,Cash,26.208,4.761904762,9.7
+880-35-0356,02-05-2019,11:51:00,A,Mumbai,Member,Female,Sports and travel,75.2,3,225.6,11.28,236.88,E-wallet,11.28,4.761904762,4.8
+307-04-2070,02-05-2019,14:14:00,A,Mumbai,Member,Female,Fashion accessories,30.62,1,30.62,1.531,32.151,Credit Card,1.531,4.761904762,4.1
+325-89-4209,02-05-2019,19:42:00,A,Mumbai,Member,Male,Food and beverages,87.9,1,87.9,4.395,92.295,E-wallet,4.395,4.761904762,6.7
+409-49-6995,02-05-2019,10:17:00,C,Pune,Member,Female,Food and beverages,47.27,6,283.62,14.181,297.801,Cash,14.181,4.761904762,8.8
+324-92-3863,02-05-2019,18:45:00,A,Mumbai,Member,Male,Electronic accessories,20.89,2,41.78,2.089,43.869,Cash,2.089,4.761904762,9.8
+371-85-5789,03-05-2019,10:40:00,B,Nashik,Normal,Male,Health and beauty,87.98,3,263.94,13.197,277.137,E-wallet,13.197,4.761904762,5.1
+510-95-6347,03-05-2019,18:17:00,B,Nashik,Member,Female,Food and beverages,48.52,3,145.56,7.278,152.838,E-wallet,7.278,4.761904762,4
+829-49-1914,03-05-2019,16:24:00,C,Pune,Member,Female,Food and beverages,78.31,10,783.1,39.155,822.255,E-wallet,39.155,4.761904762,6.6
+730-50-9884,03-05-2019,14:31:00,C,Pune,Normal,Female,Sports and travel,83.06,7,581.42,29.071,610.491,E-wallet,29.071,4.761904762,4
+733-01-9107,03-05-2019,18:14:00,B,Nashik,Normal,Male,Home and lifestyle,82.7,6,496.2,24.81,521.01,Cash,24.81,4.761904762,7.4
+291-32-1427,03-05-2019,12:29:00,B,Nashik,Member,Male,Fashion accessories,21.94,5,109.7,5.485,115.185,E-wallet,5.485,4.761904762,5.3
+895-66-0685,03-05-2019,19:46:00,B,Nashik,Member,Male,Food and beverages,18.08,3,54.24,2.712,56.952,E-wallet,2.712,4.761904762,8
+755-12-3214,03-05-2019,17:07:00,C,Pune,Member,Female,Fashion accessories,44.22,5,221.1,11.055,232.155,Credit Card,11.055,4.761904762,8.6
+848-42-2560,03-05-2019,17:43:00,A,Mumbai,Normal,Female,Fashion accessories,81.91,2,163.82,8.191,172.011,Cash,8.191,4.761904762,7.8
+433-75-6987,03-05-2019,19:06:00,B,Nashik,Member,Female,Health and beauty,55.97,7,391.79,19.5895,411.3795,E-wallet,19.5895,4.761904762,8.9
+793-10-3222,03-05-2019,13:30:00,B,Nashik,Member,Female,Health and beauty,41.06,6,246.36,12.318,258.678,Credit Card,12.318,4.761904762,8.3
+608-04-3797,03-05-2019,20:24:00,B,Nashik,Member,Female,Health and beauty,25.32,8,202.56,10.128,212.688,E-wallet,10.128,4.761904762,8.7
+148-82-2527,03-05-2019,13:44:00,C,Pune,Member,Female,Home and lifestyle,12.12,10,121.2,6.06,127.26,Credit Card,6.06,4.761904762,8.4
+655-07-2265,03-05-2019,16:38:00,A,Mumbai,Normal,Male,Electronic accessories,78.31,3,234.93,11.7465,246.6765,E-wallet,11.7465,4.761904762,5.4
+174-64-0215,03-05-2019,17:49:00,B,Nashik,Normal,Male,Sports and travel,69.74,10,697.4,34.87,732.27,Credit Card,34.87,4.761904762,8.9
+593-14-4239,03-05-2019,19:40:00,B,Nashik,Normal,Female,Home and lifestyle,95.46,8,763.68,38.184,801.864,E-wallet,38.184,4.761904762,4.7
+102-77-2261,03-05-2019,18:02:00,C,Pune,Member,Male,Health and beauty,65.31,7,457.17,22.8585,480.0285,Credit Card,22.8585,4.761904762,4.2
+393-65-2792,01-06-2019,12:46:00,C,Pune,Normal,Male,Food and beverages,89.48,10,894.8,44.74,939.54,Credit Card,44.74,4.761904762,9.6
+704-11-6354,01-06-2019,11:23:00,A,Mumbai,Member,Male,Home and lifestyle,58.9,8,471.2,23.56,494.76,Cash,23.56,4.761904762,8.9
+490-29-1201,01-06-2019,11:09:00,A,Mumbai,Normal,Female,Sports and travel,15.34,1,15.34,0.767,16.107,Cash,0.767,4.761904762,6.5
+834-25-9262,01-06-2019,12:12:00,C,Pune,Normal,Female,Fashion accessories,81.68,4,326.72,16.336,343.056,Cash,16.336,4.761904762,9.1
+662-72-2873,01-06-2019,13:58:00,A,Mumbai,Normal,Female,Food and beverages,40.94,5,204.7,10.235,214.935,E-wallet,10.235,4.761904762,9.9
+826-58-8051,01-06-2019,19:46:00,B,Nashik,Normal,Male,Home and lifestyle,62.19,4,248.76,12.438,261.198,E-wallet,12.438,4.761904762,4.3
+729-06-2010,01-06-2019,11:18:00,B,Nashik,Member,Male,Health and beauty,80.47,9,724.23,36.2115,760.4415,Cash,36.2115,4.761904762,9.2
+852-82-2749,01-06-2019,13:35:00,A,Mumbai,Normal,Male,Sports and travel,64.59,4,258.36,12.918,271.278,E-wallet,12.918,4.761904762,9.3
+846-10-0341,01-06-2019,11:51:00,A,Mumbai,Normal,Female,Fashion accessories,42.57,7,297.99,14.8995,312.8895,Cash,14.8995,4.761904762,6.8
+351-62-0822,02-06-2019,18:07:00,B,Nashik,Member,Female,Fashion accessories,14.48,4,57.92,2.896,60.816,E-wallet,2.896,4.761904762,4.5
+183-56-6882,02-06-2019,10:42:00,C,Pune,Member,Female,Food and beverages,99.42,4,397.68,19.884,417.564,E-wallet,19.884,4.761904762,7.5
+727-46-3608,02-06-2019,15:47:00,B,Nashik,Member,Female,Food and beverages,20.01,9,180.09,9.0045,189.0945,E-wallet,9.0045,4.761904762,4.1
+512-91-0811,02-06-2019,20:05:00,C,Pune,Normal,Male,Health and beauty,89.75,1,89.75,4.4875,94.2375,Credit Card,4.4875,4.761904762,6.6
+875-46-5808,02-06-2019,14:51:00,B,Nashik,Member,Male,Health and beauty,25.9,10,259,12.95,271.95,E-wallet,12.95,4.761904762,8.7
+595-86-2894,02-06-2019,17:20:00,C,Pune,Member,Male,Fashion accessories,96.98,4,387.92,19.396,407.316,E-wallet,19.396,4.761904762,9.4
+609-81-8548,02-06-2019,13:55:00,A,Mumbai,Member,Female,Home and lifestyle,37.44,6,224.64,11.232,235.872,Credit Card,11.232,4.761904762,5.9
+857-67-9057,02-06-2019,19:20:00,B,Nashik,Normal,Male,Electronic accessories,22.95,10,229.5,11.475,240.975,E-wallet,11.475,4.761904762,8.2
+258-92-7466,02-06-2019,18:33:00,A,Mumbai,Normal,Female,Health and beauty,35.68,5,178.4,8.92,187.32,Credit Card,8.92,4.761904762,6.6
+149-14-0304,02-06-2019,14:24:00,C,Pune,Member,Female,Health and beauty,28.5,8,228,11.4,239.4,Cash,11.4,4.761904762,6.6
+471-06-8611,02-06-2019,10:22:00,C,Pune,Normal,Female,Food and beverages,52.42,1,52.42,2.621,55.041,Credit Card,2.621,4.761904762,6.3
+811-35-1094,02-06-2019,15:16:00,B,Nashik,Member,Male,Electronic accessories,50.45,6,302.7,15.135,317.835,Credit Card,15.135,4.761904762,8.9
+373-88-1424,02-06-2019,18:44:00,C,Pune,Member,Male,Home and lifestyle,35.81,5,179.05,8.9525,188.0025,E-wallet,8.9525,4.761904762,7.9
+199-75-8169,03-06-2019,12:27:00,A,Mumbai,Member,Male,Sports and travel,15.81,10,158.1,7.905,166.005,Credit Card,7.905,4.761904762,8.6
+802-70-5316,03-06-2019,20:34:00,A,Mumbai,Member,Female,Sports and travel,92.13,6,552.78,27.639,580.419,Cash,27.639,4.761904762,8.3
+262-47-2794,03-06-2019,15:07:00,B,Nashik,Member,Male,Home and lifestyle,71.86,8,574.88,28.744,603.624,Credit Card,28.744,4.761904762,6.2
+468-01-2051,03-06-2019,13:46:00,B,Nashik,Normal,Male,Food and beverages,62.08,7,434.56,21.728,456.288,E-wallet,21.728,4.761904762,5.4
+783-09-1637,03-06-2019,18:13:00,B,Nashik,Normal,Female,Sports and travel,67.43,5,337.15,16.8575,354.0075,E-wallet,16.8575,4.761904762,6.3
+523-38-0215,03-06-2019,13:29:00,C,Pune,Normal,Male,Home and lifestyle,37,1,37,1.85,38.85,Credit Card,1.85,4.761904762,7.9
+254-31-0042,03-06-2019,12:46:00,A,Mumbai,Member,Male,Electronic accessories,21.5,9,193.5,9.675,203.175,Credit Card,9.675,4.761904762,7.8
+885-17-6250,03-06-2019,10:36:00,A,Mumbai,Normal,Female,Health and beauty,79.74,1,79.74,3.987,83.727,E-wallet,3.987,4.761904762,7.3
+149-15-7606,03-06-2019,15:31:00,B,Nashik,Member,Male,Sports and travel,37.32,9,335.88,16.794,352.674,E-wallet,16.794,4.761904762,5.1
+715-20-1673,03-06-2019,20:57:00,B,Nashik,Normal,Male,Electronic accessories,28.38,5,141.9,7.095,148.995,Cash,7.095,4.761904762,9.4
+883-69-1285,03-06-2019,11:55:00,B,Nashik,Member,Male,Fashion accessories,49.92,2,99.84,4.992,104.832,Credit Card,4.992,4.761904762,7
+232-16-2483,01-07-2019,12:28:00,C,Pune,Member,Female,Sports and travel,68.12,1,68.12,3.406,71.526,E-wallet,3.406,4.761904762,6.8
+109-28-2512,01-07-2019,15:01:00,B,Nashik,Member,Female,Fashion accessories,97.61,6,585.66,29.283,614.943,E-wallet,29.283,4.761904762,9.9
+799-71-1548,01-07-2019,16:11:00,A,Mumbai,Member,Male,Electronic accessories,77.72,4,310.88,15.544,326.424,Credit Card,15.544,4.761904762,8.8
+126-54-1082,01-07-2019,11:44:00,A,Mumbai,Member,Female,Home and lifestyle,21.54,9,193.86,9.693,203.553,Credit Card,9.693,4.761904762,8.8
+566-19-5475,01-07-2019,20:52:00,B,Nashik,Normal,Male,Fashion accessories,47.97,7,335.79,16.7895,352.5795,Cash,16.7895,4.761904762,6.2
+526-86-8552,01-07-2019,17:36:00,C,Pune,Member,Female,Home and lifestyle,21.82,10,218.2,10.91,229.11,Cash,10.91,4.761904762,7.1
+889-04-9723,01-07-2019,12:20:00,B,Nashik,Member,Female,Food and beverages,89.14,4,356.56,17.828,374.388,Credit Card,17.828,4.761904762,7.8
+541-48-8554,01-07-2019,12:08:00,A,Mumbai,Normal,Male,Sports and travel,60.95,9,548.55,27.4275,575.9775,Credit Card,27.4275,4.761904762,6
+390-31-6381,01-07-2019,12:37:00,C,Pune,Normal,Male,Food and beverages,27.22,3,81.66,4.083,85.743,Cash,4.083,4.761904762,7.3
+252-56-2699,02-07-2019,16:48:00,A,Mumbai,Normal,Male,Food and beverages,43.19,10,431.9,21.595,453.495,E-wallet,21.595,4.761904762,8.2
+635-40-6220,02-07-2019,11:28:00,A,Mumbai,Normal,Male,Health and beauty,89.6,8,716.8,35.84,752.64,E-wallet,35.84,4.761904762,6.6
+214-17-6927,02-07-2019,18:23:00,C,Pune,Normal,Female,Food and beverages,16.48,6,98.88,4.944,103.824,E-wallet,4.944,4.761904762,9.9
+380-94-4661,02-07-2019,13:05:00,C,Pune,Member,Male,Electronic accessories,65.94,4,263.76,13.188,276.948,Credit Card,13.188,4.761904762,6.9
+868-81-1752,02-07-2019,18:48:00,B,Nashik,Normal,Male,Home and lifestyle,22.02,9,198.18,9.909,208.089,Cash,9.909,4.761904762,6.8
+810-60-6344,02-07-2019,14:38:00,C,Pune,Normal,Female,Electronic accessories,40.86,8,326.88,16.344,343.224,Credit Card,16.344,4.761904762,6.5
+533-33-5337,02-07-2019,20:24:00,B,Nashik,Normal,Male,Electronic accessories,79.39,10,793.9,39.695,833.595,Cash,39.695,4.761904762,6.2
+827-44-5872,02-07-2019,11:28:00,B,Nashik,Member,Female,Food and beverages,54.36,10,543.6,27.18,570.78,Credit Card,27.18,4.761904762,6.1
+583-41-4548,02-07-2019,11:36:00,C,Pune,Normal,Male,Home and lifestyle,16.67,7,116.69,5.8345,122.5245,E-wallet,5.8345,4.761904762,7.4
+560-49-6611,02-07-2019,14:13:00,A,Mumbai,Member,Female,Sports and travel,45.58,1,45.58,2.279,47.859,Cash,2.279,4.761904762,9.8
+421-95-9805,02-07-2019,10:18:00,A,Mumbai,Normal,Female,Electronic accessories,28.96,1,28.96,1.448,30.408,Credit Card,1.448,4.761904762,6.2
+641-96-3695,02-07-2019,17:55:00,C,Pune,Member,Female,Fashion accessories,43.46,6,260.76,13.038,273.798,E-wallet,13.038,4.761904762,8.5
+648-94-3045,02-07-2019,14:27:00,C,Pune,Normal,Male,Health and beauty,58.95,10,589.5,29.475,618.975,E-wallet,29.475,4.761904762,8.1
+626-43-7888,02-07-2019,12:23:00,C,Pune,Normal,Female,Fashion accessories,60.41,8,483.28,24.164,507.444,E-wallet,24.164,4.761904762,9.6
+784-21-9238,02-07-2019,14:15:00,C,Pune,Member,Male,Sports and travel,10.17,1,10.17,0.5085,10.6785,Cash,0.5085,4.761904762,5.9
+114-35-5271,02-07-2019,15:06:00,B,Nashik,Normal,Female,Electronic accessories,57.91,8,463.28,23.164,486.444,Cash,23.164,4.761904762,8.1
+453-33-6436,02-07-2019,10:09:00,A,Mumbai,Normal,Female,Home and lifestyle,93.12,8,744.96,37.248,782.208,Cash,37.248,4.761904762,6.8
+430-02-3888,02-07-2019,15:55:00,B,Nashik,Normal,Male,Electronic accessories,46.02,6,276.12,13.806,289.926,Cash,13.806,4.761904762,7.1
+744-82-9138,02-07-2019,17:59:00,C,Pune,Normal,Male,Fashion accessories,86.13,2,172.26,8.613,180.873,Cash,8.613,4.761904762,8.2
+374-38-5555,02-07-2019,19:30:00,B,Nashik,Normal,Female,Fashion accessories,63.71,5,318.55,15.9275,334.4775,E-wallet,15.9275,4.761904762,8.5
+242-55-6721,03-07-2019,11:49:00,B,Nashik,Normal,Male,Home and lifestyle,16.16,2,32.32,1.616,33.936,E-wallet,1.616,4.761904762,6.5
+307-85-2293,03-07-2019,13:58:00,B,Nashik,Normal,Male,Home and lifestyle,50.28,5,251.4,12.57,263.97,E-wallet,12.57,4.761904762,9.7
+821-07-3596,03-07-2019,14:53:00,C,Pune,Normal,Female,Fashion accessories,16.45,4,65.8,3.29,69.09,E-wallet,3.29,4.761904762,5.6
+423-64-4619,03-07-2019,13:12:00,A,Mumbai,Member,Female,Health and beauty,15.55,9,139.95,6.9975,146.9475,Cash,6.9975,4.761904762,5
+471-41-2823,03-07-2019,20:37:00,C,Pune,Normal,Male,Food and beverages,99.79,2,199.58,9.979,209.559,E-wallet,9.979,4.761904762,8
+598-47-9715,03-07-2019,16:54:00,C,Pune,Normal,Male,Electronic accessories,84.07,4,336.28,16.814,353.094,E-wallet,16.814,4.761904762,4.4
+643-38-7867,03-07-2019,11:44:00,A,Mumbai,Normal,Male,Home and lifestyle,97.94,1,97.94,4.897,102.837,E-wallet,4.897,4.761904762,6.9
+399-69-4630,03-07-2019,10:23:00,C,Pune,Normal,Male,Electronic accessories,22.21,6,133.26,6.663,139.923,Credit Card,6.663,4.761904762,8.6
+748-45-2862,03-07-2019,18:35:00,A,Mumbai,Member,Female,Home and lifestyle,28.31,4,113.24,5.662,118.902,Cash,5.662,4.761904762,8.2
+189-08-9157,01-08-2019,16:17:00,C,Pune,Normal,Female,Fashion accessories,31.73,9,285.57,14.2785,299.8485,Credit Card,14.2785,4.761904762,5.9
+663-86-9076,01-08-2019,15:57:00,C,Pune,Member,Female,Food and beverages,68.54,8,548.32,27.416,575.736,E-wallet,27.416,4.761904762,8.5
+571-94-0759,01-08-2019,20:55:00,B,Nashik,Member,Female,Food and beverages,74.6,10,746,37.3,783.3,Cash,37.3,4.761904762,9.5
+750-57-9686,01-08-2019,13:48:00,C,Pune,Normal,Female,Home and lifestyle,45.38,4,181.52,9.076,190.596,Credit Card,9.076,4.761904762,8.7
+192-98-7397,01-08-2019,14:11:00,C,Pune,Normal,Male,Fashion accessories,12.78,1,12.78,0.639,13.419,E-wallet,0.639,4.761904762,9.5
+674-15-9296,01-08-2019,13:05:00,A,Mumbai,Normal,Male,Sports and travel,37.14,5,185.7,9.285,194.985,E-wallet,9.285,4.761904762,5
+387-49-4215,01-08-2019,12:50:00,B,Nashik,Member,Female,Sports and travel,48.5,3,145.5,7.275,152.775,Cash,7.275,4.761904762,6.7
+484-22-8230,01-08-2019,20:08:00,C,Pune,Member,Female,Fashion accessories,51.89,7,363.23,18.1615,381.3915,Cash,18.1615,4.761904762,4.5
+241-96-5076,01-08-2019,12:58:00,B,Nashik,Member,Female,Home and lifestyle,49.1,2,98.2,4.91,103.11,Credit Card,4.91,4.761904762,6.4
+767-97-4650,01-08-2019,11:59:00,B,Nashik,Member,Female,Sports and travel,64.83,2,129.66,6.483,136.143,Credit Card,6.483,4.761904762,8
+442-44-6497,01-08-2019,11:42:00,C,Pune,Member,Male,Home and lifestyle,55.57,3,166.71,8.3355,175.0455,Credit Card,8.3355,4.761904762,5.9
+457-13-1708,01-08-2019,19:07:00,B,Nashik,Member,Male,Fashion accessories,65.23,10,652.3,32.615,684.915,Credit Card,32.615,4.761904762,5.2
+257-60-7754,01-08-2019,17:12:00,A,Mumbai,Normal,Female,Electronic accessories,50.23,4,200.92,10.046,210.966,Cash,10.046,4.761904762,9
+845-94-6841,01-08-2019,19:38:00,C,Pune,Member,Female,Food and beverages,72.88,9,655.92,32.796,688.716,Cash,32.796,4.761904762,4
+840-76-5966,01-08-2019,18:06:00,A,Mumbai,Member,Male,Sports and travel,12.76,2,25.52,1.276,26.796,E-wallet,1.276,4.761904762,7.8
+124-31-1458,01-08-2019,14:30:00,A,Mumbai,Member,Female,Electronic accessories,79.59,3,238.77,11.9385,250.7085,Cash,11.9385,4.761904762,6.6
+631-34-1880,01-08-2019,19:09:00,C,Pune,Member,Male,Food and beverages,24.31,3,72.93,3.6465,76.5765,Credit Card,3.6465,4.761904762,4.3
+490-95-0021,01-08-2019,14:25:00,B,Nashik,Member,Female,Food and beverages,33.21,10,332.1,16.605,348.705,E-wallet,16.605,4.761904762,6
+373-73-7910,02-08-2019,10:37:00,A,Mumbai,Normal,Male,Sports and travel,86.31,7,604.17,30.2085,634.3785,E-wallet,30.2085,4.761904762,5.3
+649-29-6775,02-08-2019,15:31:00,B,Nashik,Normal,Male,Fashion accessories,33.52,1,33.52,1.676,35.196,Cash,1.676,4.761904762,6.7
+354-25-5821,02-08-2019,13:03:00,B,Nashik,Member,Female,Sports and travel,69.12,6,414.72,20.736,435.456,Cash,20.736,4.761904762,5.6
+549-84-7482,02-08-2019,11:15:00,B,Nashik,Normal,Female,Sports and travel,90.28,9,812.52,40.626,853.146,E-wallet,40.626,4.761904762,7.2
+687-47-8271,02-08-2019,16:20:00,A,Mumbai,Normal,Male,Fashion accessories,98.98,10,989.8,49.49,1039.29,Credit Card,49.49,4.761904762,8.7
+732-04-5373,02-08-2019,10:53:00,B,Nashik,Member,Male,Home and lifestyle,46.47,4,185.88,9.294,195.174,Cash,9.294,4.761904762,7
+271-88-8734,02-08-2019,13:00:00,C,Pune,Member,Female,Fashion accessories,97.21,10,972.1,48.605,1020.705,Credit Card,48.605,4.761904762,8.7
+440-59-5691,02-08-2019,13:12:00,C,Pune,Member,Female,Health and beauty,37.15,7,260.05,13.0025,273.0525,Credit Card,13.0025,4.761904762,7.7
+830-58-2383,02-08-2019,15:26:00,B,Nashik,Normal,Male,Home and lifestyle,31.75,4,127,6.35,133.35,Cash,6.35,4.761904762,8.6
+756-49-0168,02-08-2019,11:39:00,A,Mumbai,Member,Male,Fashion accessories,19.7,1,19.7,0.985,20.685,E-wallet,0.985,4.761904762,9.5
+815-04-6282,02-08-2019,12:52:00,C,Pune,Member,Female,Sports and travel,64.97,5,324.85,16.2425,341.0925,Credit Card,16.2425,4.761904762,6.5
+181-82-6255,02-08-2019,10:58:00,B,Nashik,Normal,Female,Home and lifestyle,16.37,6,98.22,4.911,103.131,Cash,4.911,4.761904762,7
+226-31-3081,03-08-2019,10:29:00,C,Pune,Normal,Female,Electronic accessories,15.28,5,76.4,3.82,80.22,Cash,3.82,4.761904762,9.6
+594-34-4444,03-08-2019,20:38:00,A,Mumbai,Normal,Male,Electronic accessories,97.16,1,97.16,4.858,102.018,E-wallet,4.858,4.761904762,7.2
+483-71-1164,03-08-2019,16:43:00,C,Pune,Normal,Female,Health and beauty,81.3,6,487.8,24.39,512.19,E-wallet,24.39,4.761904762,5.3
+458-41-1477,03-08-2019,17:11:00,C,Pune,Normal,Female,Health and beauty,46.26,6,277.56,13.878,291.438,Credit Card,13.878,4.761904762,9.5
+563-91-7120,03-08-2019,13:21:00,A,Mumbai,Normal,Female,Fashion accessories,61.77,5,308.85,15.4425,324.2925,Cash,15.4425,4.761904762,6.7
+632-90-0281,03-08-2019,20:01:00,C,Pune,Normal,Female,Fashion accessories,37.55,10,375.5,18.775,394.275,Credit Card,18.775,4.761904762,9.3
+325-77-6186,03-08-2019,10:53:00,A,Mumbai,Member,Female,Home and lifestyle,90.65,10,906.5,45.325,951.825,E-wallet,45.325,4.761904762,7.3
+574-57-9721,03-08-2019,16:53:00,C,Pune,Normal,Male,Food and beverages,43.27,2,86.54,4.327,90.867,E-wallet,4.327,4.761904762,5.7
+345-08-4992,03-08-2019,15:37:00,A,Mumbai,Normal,Male,Home and lifestyle,33.99,6,203.94,10.197,214.137,Credit Card,10.197,4.761904762,7.7
+549-96-4200,03-08-2019,20:15:00,C,Pune,Member,Male,Food and beverages,17.04,4,68.16,3.408,71.568,E-wallet,3.408,4.761904762,7
+364-33-8584,03-08-2019,15:27:00,B,Nashik,Member,Female,Food and beverages,17.63,5,88.15,4.4075,92.5575,Cash,4.4075,4.761904762,8.5
+263-10-3913,01-09-2019,14:20:00,C,Pune,Member,Male,Fashion accessories,49.04,9,441.36,22.068,463.428,Credit Card,22.068,4.761904762,8.6
+554-42-2417,01-09-2019,13:45:00,C,Pune,Normal,Female,Sports and travel,95.44,10,954.4,47.72,1002.12,Cash,47.72,4.761904762,5.2
+370-96-0655,01-09-2019,13:46:00,C,Pune,Normal,Female,Fashion accessories,49.32,6,295.92,14.796,310.716,E-wallet,14.796,4.761904762,7.1
+343-75-9322,01-09-2019,16:34:00,B,Nashik,Member,Female,Sports and travel,11.85,8,94.8,4.74,99.54,Cash,4.74,4.761904762,4.1
+288-62-1085,01-09-2019,13:34:00,A,Mumbai,Member,Male,Fashion accessories,38.54,5,192.7,9.635,202.335,E-wallet,9.635,4.761904762,5.6
+305-89-2768,01-09-2019,18:43:00,B,Nashik,Member,Female,Home and lifestyle,21.9,3,65.7,3.285,68.985,E-wallet,3.285,4.761904762,4.7
+867-47-1948,01-09-2019,12:07:00,C,Pune,Normal,Female,Home and lifestyle,15.8,10,158,7.9,165.9,Cash,7.9,4.761904762,7.8
+189-40-5216,01-09-2019,11:40:00,C,Pune,Normal,Male,Electronic accessories,96.37,7,674.59,33.7295,708.3195,Cash,33.7295,4.761904762,6
+871-39-9221,02-09-2019,13:11:00,C,Pune,Normal,Female,Electronic accessories,12.45,6,74.7,3.735,78.435,Cash,3.735,4.761904762,4.1
+130-98-8941,02-09-2019,10:00:00,C,Pune,Normal,Male,Fashion accessories,64.26,7,449.82,22.491,472.311,Cash,22.491,4.761904762,5.7
+866-05-7563,02-09-2019,19:43:00,B,Nashik,Member,Female,Electronic accessories,81.4,3,244.2,12.21,256.41,Cash,12.21,4.761904762,4.8
+447-15-7839,02-09-2019,11:00:00,A,Mumbai,Member,Female,Sports and travel,22.24,10,222.4,11.12,233.52,Cash,11.12,4.761904762,4.2
+428-83-5800,02-09-2019,10:25:00,C,Pune,Member,Female,Food and beverages,21.08,3,63.24,3.162,66.402,Cash,3.162,4.761904762,7.3
+746-19-0921,02-09-2019,10:02:00,C,Pune,Normal,Male,Food and beverages,21.58,1,21.58,1.079,22.659,E-wallet,1.079,4.761904762,7.2
+602-80-9671,02-09-2019,17:15:00,C,Pune,Member,Female,Home and lifestyle,15.95,6,95.7,4.785,100.485,Credit Card,4.785,4.761904762,5.1
+747-58-7183,02-09-2019,20:31:00,B,Nashik,Normal,Male,Fashion accessories,57.27,3,171.81,8.5905,180.4005,E-wallet,8.5905,4.761904762,6.5
+146-09-5432,02-09-2019,19:17:00,A,Mumbai,Member,Male,Food and beverages,35.04,9,315.36,15.768,331.128,E-wallet,15.768,4.761904762,4.6
+509-10-0516,02-09-2019,12:02:00,B,Nashik,Normal,Male,Home and lifestyle,45.97,4,183.88,9.194,193.074,E-wallet,9.194,4.761904762,5.1
+450-42-3339,02-09-2019,18:58:00,C,Pune,Normal,Male,Health and beauty,84.61,10,846.1,42.305,888.405,Credit Card,42.305,4.761904762,8.8
+200-40-6154,02-09-2019,11:45:00,B,Nashik,Member,Male,Home and lifestyle,65.91,6,395.46,19.773,415.233,Cash,19.773,4.761904762,5.7
+727-02-1313,02-09-2019,13:22:00,A,Mumbai,Member,Male,Food and beverages,31.84,1,31.84,1.592,33.432,Cash,1.592,4.761904762,7.7
+529-56-3974,03-09-2019,17:03:00,B,Nashik,Member,Male,Electronic accessories,25.51,4,102.04,5.102,107.142,Cash,5.102,4.761904762,6.8
+132-32-9879,03-09-2019,18:00:00,B,Nashik,Member,Female,Electronic accessories,93.96,4,375.84,18.792,394.632,Cash,18.792,4.761904762,9.5
+841-35-6630,03-09-2019,18:21:00,C,Pune,Normal,Female,Electronic accessories,75.91,6,455.46,22.773,478.233,Cash,22.773,4.761904762,8.7
+360-39-5055,03-09-2019,10:17:00,C,Pune,Member,Male,Sports and travel,48.91,5,244.55,12.2275,256.7775,Cash,12.2275,4.761904762,6.6
+219-22-9386,03-09-2019,17:26:00,B,Nashik,Member,Male,Sports and travel,99.96,9,899.64,44.982,944.622,Credit Card,44.982,4.761904762,4.2
+268-27-6179,03-09-2019,14:57:00,B,Nashik,Member,Female,Fashion accessories,56.47,8,451.76,22.588,474.348,E-wallet,22.588,4.761904762,7.3
+157-13-5295,03-09-2019,18:24:00,A,Mumbai,Member,Male,Health and beauty,51.94,10,519.4,25.97,545.37,E-wallet,25.97,4.761904762,6.5
+815-11-1168,03-09-2019,19:09:00,A,Mumbai,Member,Male,Food and beverages,99.78,5,498.9,24.945,523.845,Cash,24.945,4.761904762,5.4
+308-47-4913,03-09-2019,12:45:00,A,Mumbai,Member,Female,Sports and travel,52.26,10,522.6,26.13,548.73,Credit Card,26.13,4.761904762,6.2
+489-64-4354,03-09-2019,15:36:00,C,Pune,Normal,Male,Fashion accessories,16.28,1,16.28,0.814,17.094,Cash,0.814,4.761904762,5
+616-87-0016,03-09-2019,14:36:00,B,Nashik,Normal,Male,Fashion accessories,95.54,7,668.78,33.439,702.219,Credit Card,33.439,4.761904762,9.6
+127-47-6963,03-09-2019,13:53:00,A,Mumbai,Normal,Male,Health and beauty,51.71,4,206.84,10.342,217.182,Credit Card,10.342,4.761904762,9.8
+277-35-5865,03-09-2019,11:23:00,C,Pune,Member,Female,Food and beverages,98.97,9,890.73,44.5365,935.2665,Cash,44.5365,4.761904762,6.7
+816-57-2053,03-09-2019,12:37:00,A,Mumbai,Normal,Male,Sports and travel,60.87,2,121.74,6.087,127.827,E-wallet,6.087,4.761904762,8.7
+299-29-0180,03-09-2019,10:54:00,B,Nashik,Member,Female,Home and lifestyle,52.18,7,365.26,18.263,383.523,Cash,18.263,4.761904762,9.3
+652-43-6591,03-09-2019,13:18:00,A,Mumbai,Normal,Female,Fashion accessories,97.29,8,778.32,38.916,817.236,Credit Card,38.916,4.761904762,6.2
+665-32-9167,01-10-2019,17:15:00,A,Mumbai,Member,Female,Health and beauty,36.26,2,72.52,3.626,76.146,Credit Card,3.626,4.761904762,7.2
+640-49-2076,01-10-2019,14:49:00,B,Nashik,Normal,Male,Sports and travel,83.78,8,670.24,33.512,703.752,Cash,33.512,4.761904762,5.1
+873-51-0671,01-10-2019,16:42:00,A,Mumbai,Member,Female,Sports and travel,21.98,7,153.86,7.693,161.553,E-wallet,7.693,4.761904762,5.1
+744-02-5987,01-10-2019,14:16:00,A,Mumbai,Member,Male,Home and lifestyle,78.38,6,470.28,23.514,493.794,E-wallet,23.514,4.761904762,5.8
+603-07-0961,01-10-2019,11:34:00,C,Pune,Member,Male,Electronic accessories,74.79,5,373.95,18.6975,392.6475,Cash,18.6975,4.761904762,4.9
+241-11-2261,01-10-2019,10:33:00,B,Nashik,Normal,Female,Fashion accessories,79.86,7,559.02,27.951,586.971,Credit Card,27.951,4.761904762,5.5
+887-42-0517,01-10-2019,10:31:00,C,Pune,Normal,Female,Sports and travel,83.14,7,581.98,29.099,611.079,Credit Card,29.099,4.761904762,6.6
+226-34-0034,01-10-2019,11:10:00,B,Nashik,Normal,Female,Electronic accessories,13.78,4,55.12,2.756,57.876,E-wallet,2.756,4.761904762,9
+577-34-7579,01-10-2019,17:16:00,C,Pune,Member,Male,Food and beverages,50.49,9,454.41,22.7205,477.1305,Cash,22.7205,4.761904762,5.4
+669-54-1719,02-10-2019,12:45:00,B,Nashik,Member,Male,Electronic accessories,18.93,6,113.58,5.679,119.259,Credit Card,5.679,4.761904762,8.1
+162-48-8011,02-10-2019,15:10:00,A,Mumbai,Member,Female,Food and beverages,44.59,5,222.95,11.1475,234.0975,Cash,11.1475,4.761904762,8.5
+838-78-4295,02-10-2019,15:43:00,C,Pune,Normal,Female,Health and beauty,33.47,2,66.94,3.347,70.287,E-wallet,3.347,4.761904762,6.7
+695-51-0018,02-10-2019,18:36:00,B,Nashik,Normal,Female,Sports and travel,34.84,4,139.36,6.968,146.328,Cash,6.968,4.761904762,7.4
+685-64-1609,02-10-2019,12:28:00,A,Mumbai,Member,Female,Fashion accessories,30.14,10,301.4,15.07,316.47,E-wallet,15.07,4.761904762,9.2
+400-60-7251,02-10-2019,12:50:00,A,Mumbai,Normal,Male,Home and lifestyle,74.07,1,74.07,3.7035,77.7735,E-wallet,3.7035,4.761904762,9.9
+227-07-4446,02-10-2019,20:51:00,C,Pune,Member,Female,Electronic accessories,78.13,10,781.3,39.065,820.365,Cash,39.065,4.761904762,4.4
+378-07-7001,02-10-2019,18:23:00,B,Nashik,Member,Male,Electronic accessories,48.09,3,144.27,7.2135,151.4835,Credit Card,7.2135,4.761904762,7.8
+559-98-9873,02-10-2019,12:56:00,A,Mumbai,Member,Female,Fashion accessories,53.65,7,375.55,18.7775,394.3275,E-wallet,18.7775,4.761904762,5.2
+196-01-2849,02-10-2019,13:56:00,C,Pune,Member,Female,Fashion accessories,73.38,7,513.66,25.683,539.343,Cash,25.683,4.761904762,9.5
+448-34-8700,02-10-2019,13:51:00,B,Nashik,Member,Male,Home and lifestyle,36.91,7,258.37,12.9185,271.2885,E-wallet,12.9185,4.761904762,6.7
+189-17-4241,03-10-2019,12:17:00,A,Mumbai,Normal,Female,Fashion accessories,87.67,2,175.34,8.767,184.107,Credit Card,8.767,4.761904762,7.7
+129-29-8530,03-10-2019,19:15:00,A,Mumbai,Member,Male,Sports and travel,62.62,5,313.1,15.655,328.755,E-wallet,15.655,4.761904762,7
+668-90-8900,03-10-2019,18:44:00,A,Mumbai,Normal,Female,Home and lifestyle,93.69,7,655.83,32.7915,688.6215,Credit Card,32.7915,4.761904762,4.5
+790-29-1172,03-10-2019,18:59:00,B,Nashik,Normal,Female,Food and beverages,57.34,3,172.02,8.601,180.621,Credit Card,8.601,4.761904762,7.9
+596-42-3999,03-10-2019,14:04:00,B,Nashik,Normal,Male,Food and beverages,18.22,7,127.54,6.377,133.917,Credit Card,6.377,4.761904762,6.6
+696-90-2548,03-10-2019,18:55:00,A,Mumbai,Normal,Male,Sports and travel,25.84,3,77.52,3.876,81.396,E-wallet,3.876,4.761904762,6.6
+453-12-7053,03-10-2019,17:38:00,C,Pune,Normal,Male,Fashion accessories,45.74,3,137.22,6.861,144.081,Credit Card,6.861,4.761904762,6.5
+239-48-4278,03-10-2019,19:35:00,A,Mumbai,Member,Male,Food and beverages,10.13,7,70.91,3.5455,74.4555,E-wallet,3.5455,4.761904762,8.3
+607-65-2441,03-10-2019,12:39:00,C,Pune,Member,Male,Health and beauty,81.95,10,819.5,40.975,860.475,Credit Card,40.975,4.761904762,6
+246-55-6923,03-10-2019,15:06:00,C,Pune,Member,Female,Home and lifestyle,35.79,9,322.11,16.1055,338.2155,Credit Card,16.1055,4.761904762,5.1
+156-20-0370,03-10-2019,18:10:00,B,Nashik,Normal,Female,Electronic accessories,25.45,1,25.45,1.2725,26.7225,Credit Card,1.2725,4.761904762,5.1
+745-74-0715,03-10-2019,20:46:00,A,Mumbai,Normal,Male,Electronic accessories,58.03,2,116.06,5.803,121.863,E-wallet,5.803,4.761904762,8.8
+746-68-6593,01-11-2019,14:29:00,C,Pune,Member,Female,Sports and travel,87.16,2,174.32,8.716,183.036,Credit Card,8.716,4.761904762,9.7
+478-06-7835,01-11-2019,11:20:00,A,Mumbai,Normal,Male,Fashion accessories,89.69,1,89.69,4.4845,94.1745,E-wallet,4.4845,4.761904762,4.9
+540-11-4336,01-11-2019,16:49:00,A,Mumbai,Normal,Male,Food and beverages,24.94,9,224.46,11.223,235.683,Credit Card,11.223,4.761904762,5.6
+289-15-7034,01-11-2019,10:37:00,A,Mumbai,Member,Male,Sports and travel,82.33,4,329.32,16.466,345.786,Credit Card,16.466,4.761904762,7.5
+732-67-5346,01-11-2019,19:07:00,A,Mumbai,Normal,Male,Food and beverages,13.79,5,68.95,3.4475,72.3975,Credit Card,3.4475,4.761904762,7.8
+130-67-4723,01-11-2019,13:57:00,A,Mumbai,Member,Male,Food and beverages,48.5,6,291,14.55,305.55,E-wallet,14.55,4.761904762,9.4
+592-46-1692,01-11-2019,20:10:00,C,Pune,Member,Female,Food and beverages,36.77,7,257.39,12.8695,270.2595,Cash,12.8695,4.761904762,7.4
+406-46-7107,01-11-2019,11:52:00,A,Mumbai,Normal,Female,Home and lifestyle,96.52,6,579.12,28.956,608.076,Cash,28.956,4.761904762,4.5
+796-12-2025,02-11-2019,16:19:00,C,Pune,Normal,Male,Fashion accessories,62.12,10,621.2,31.06,652.26,Cash,31.06,4.761904762,5.9
+284-34-9626,02-11-2019,10:39:00,B,Nashik,Normal,Female,Home and lifestyle,77.04,3,231.12,11.556,242.676,Credit Card,11.556,4.761904762,7.2
+418-02-5978,02-11-2019,10:54:00,B,Nashik,Normal,Female,Health and beauty,84.09,9,756.81,37.8405,794.6505,Cash,37.8405,4.761904762,8
+866-99-7614,02-11-2019,15:42:00,C,Pune,Normal,Male,Food and beverages,89.2,10,892,44.6,936.6,Credit Card,44.6,4.761904762,4.4
+842-40-8179,02-11-2019,10:38:00,B,Nashik,Member,Female,Food and beverages,77.2,10,772,38.6,810.6,Credit Card,38.6,4.761904762,5.6
+534-53-3526,02-11-2019,16:06:00,A,Mumbai,Normal,Female,Sports and travel,94.76,4,379.04,18.952,397.992,E-wallet,18.952,4.761904762,7.8
+401-09-4232,02-11-2019,18:38:00,C,Pune,Member,Male,Home and lifestyle,86.69,5,433.45,21.6725,455.1225,E-wallet,21.6725,4.761904762,9.4
+531-56-4728,02-11-2019,15:29:00,A,Mumbai,Normal,Male,Home and lifestyle,80.08,3,240.24,12.012,252.252,Cash,12.012,4.761904762,5.4
+656-95-9349,03-11-2019,11:03:00,A,Mumbai,Member,Female,Health and beauty,68.93,7,482.51,24.1255,506.6355,Credit Card,24.1255,4.761904762,4.6
+319-50-3348,03-11-2019,15:30:00,B,Nashik,Normal,Female,Home and lifestyle,40.3,2,80.6,4.03,84.63,E-wallet,4.03,4.761904762,4.4
+584-86-7256,03-11-2019,16:07:00,C,Pune,Member,Male,Sports and travel,34.56,7,241.92,12.096,254.016,Credit Card,12.096,4.761904762,7.3
+891-58-8335,03-11-2019,15:53:00,B,Nashik,Member,Female,Sports and travel,29.61,7,207.27,10.3635,217.6335,Cash,10.3635,4.761904762,6.5
+721-86-6247,03-11-2019,12:55:00,A,Mumbai,Normal,Female,Home and lifestyle,63.42,8,507.36,25.368,532.728,E-wallet,25.368,4.761904762,7.4
+448-81-5016,03-11-2019,12:01:00,A,Mumbai,Normal,Male,Health and beauty,59.77,2,119.54,5.977,125.517,Credit Card,5.977,4.761904762,5.8
+704-20-4138,03-11-2019,18:58:00,C,Pune,Member,Female,Health and beauty,29.67,7,207.69,10.3845,218.0745,Credit Card,10.3845,4.761904762,8.1
+689-16-9784,03-11-2019,13:37:00,C,Pune,Normal,Male,Food and beverages,46.77,6,280.62,14.031,294.651,Cash,14.031,4.761904762,6
+892-05-6689,03-11-2019,13:28:00,A,Mumbai,Normal,Female,Home and lifestyle,28.32,5,141.6,7.08,148.68,E-wallet,7.08,4.761904762,6.2
+749-81-8133,03-11-2019,12:04:00,A,Mumbai,Normal,Female,Fashion accessories,94.67,4,378.68,18.934,397.614,Cash,18.934,4.761904762,6.8
+214-30-2776,03-11-2019,19:44:00,B,Nashik,Member,Female,Electronic accessories,34.49,5,172.45,8.6225,181.0725,Credit Card,8.6225,4.761904762,9
+381-20-0914,01-12-2019,15:48:00,A,Mumbai,Member,Female,Fashion accessories,20.01,9,180.09,9.0045,189.0945,Credit Card,9.0045,4.761904762,5.7
+704-48-3927,01-12-2019,14:50:00,A,Mumbai,Member,Male,Electronic accessories,88.67,10,886.7,44.335,931.035,E-wallet,44.335,4.761904762,7.3
+659-36-1684,01-12-2019,12:02:00,C,Pune,Member,Male,Sports and travel,57.12,7,399.84,19.992,419.832,Credit Card,19.992,4.761904762,6.5
+848-07-1692,01-12-2019,17:13:00,B,Nashik,Normal,Female,Health and beauty,57.22,2,114.44,5.722,120.162,E-wallet,5.722,4.761904762,8.3
+296-11-7041,01-12-2019,20:07:00,B,Nashik,Member,Female,Health and beauty,27.07,1,27.07,1.3535,28.4235,Credit Card,1.3535,4.761904762,5.3
+647-50-1224,01-12-2019,16:23:00,A,Mumbai,Normal,Female,Fashion accessories,29.42,10,294.2,14.71,308.91,E-wallet,14.71,4.761904762,8.9
+852-62-7105,01-12-2019,11:25:00,B,Nashik,Normal,Female,Fashion accessories,83.25,10,832.5,41.625,874.125,Credit Card,41.625,4.761904762,4.4
+751-41-9720,01-12-2019,16:18:00,C,Pune,Normal,Male,Home and lifestyle,97.5,10,975,48.75,1023.75,E-wallet,48.75,4.761904762,8
+197-77-7132,01-12-2019,18:22:00,B,Nashik,Member,Male,Electronic accessories,91.56,8,732.48,36.624,769.104,E-wallet,36.624,4.761904762,6
+751-15-6198,01-12-2019,16:45:00,B,Nashik,Normal,Male,Sports and travel,23.01,6,138.06,6.903,144.963,E-wallet,6.903,4.761904762,7.9
+533-66-5566,01-12-2019,11:42:00,B,Nashik,Normal,Female,Home and lifestyle,51.07,7,357.49,17.8745,375.3645,Cash,17.8745,4.761904762,7
+365-64-0515,02-12-2019,10:25:00,A,Mumbai,Normal,Female,Electronic accessories,46.95,5,234.75,11.7375,246.4875,E-wallet,11.7375,4.761904762,7.1
+549-03-9315,02-12-2019,12:58:00,B,Nashik,Normal,Male,Fashion accessories,94.87,8,758.96,37.948,796.908,E-wallet,37.948,4.761904762,8.7
+305-18-3552,02-12-2019,16:19:00,B,Nashik,Member,Male,Home and lifestyle,60.38,10,603.8,30.19,633.99,Cash,30.19,4.761904762,6
+287-83-1405,02-12-2019,19:01:00,A,Mumbai,Normal,Male,Health and beauty,25.43,6,152.58,7.629,160.209,E-wallet,7.629,4.761904762,7
+641-51-2661,02-12-2019,14:45:00,C,Pune,Member,Female,Food and beverages,87.1,10,871,43.55,914.55,Credit Card,43.55,4.761904762,9.9
+528-87-5606,02-12-2019,19:43:00,B,Nashik,Member,Female,Electronic accessories,39.48,1,39.48,1.974,41.454,Cash,1.974,4.761904762,6.5
+373-14-0504,02-12-2019,14:33:00,A,Mumbai,Member,Female,Sports and travel,71.63,2,143.26,7.163,150.423,E-wallet,7.163,4.761904762,8.8
+885-56-0389,02-12-2019,17:49:00,C,Pune,Member,Male,Fashion accessories,52.35,1,52.35,2.6175,54.9675,Cash,2.6175,4.761904762,4
+120-06-4233,03-12-2019,20:36:00,C,Pune,Normal,Male,Electronic accessories,30.61,6,183.66,9.183,192.843,Cash,9.183,4.761904762,9.3
+152-08-9985,03-12-2019,12:09:00,B,Nashik,Member,Male,Health and beauty,64.36,9,579.24,28.962,608.202,Credit Card,28.962,4.761904762,8.6
+699-01-4164,03-12-2019,19:58:00,C,Pune,Normal,Male,Health and beauty,41.5,4,166,8.3,174.3,Credit Card,8.3,4.761904762,8.2
+545-46-3100,03-12-2019,13:52:00,B,Nashik,Member,Female,Electronic accessories,10.59,3,31.77,1.5885,33.3585,Credit Card,1.5885,4.761904762,8.7
+253-12-6086,03-12-2019,12:43:00,A,Mumbai,Member,Female,Sports and travel,98.4,7,688.8,34.44,723.24,Credit Card,34.44,4.761904762,8.7
+565-17-3836,03-12-2019,14:21:00,A,Mumbai,Member,Female,Health and beauty,47.67,4,190.68,9.534,200.214,Cash,9.534,4.761904762,9.1
+573-10-3877,03-12-2019,16:46:00,B,Nashik,Member,Male,Health and beauty,39.01,1,39.01,1.9505,40.9605,Credit Card,1.9505,4.761904762,4.7
+276-54-0879,03-12-2019,19:53:00,B,Nashik,Normal,Male,Sports and travel,97.74,4,390.96,19.548,410.508,E-wallet,19.548,4.761904762,6.4
+719-76-3868,03-12-2019,16:30:00,C,Pune,Member,Male,Food and beverages,94.26,4,377.04,18.852,395.892,Cash,18.852,4.761904762,8.6
+651-61-0874,03-12-2019,20:04:00,C,Pune,Normal,Male,Home and lifestyle,46.22,4,184.88,9.244,194.124,Credit Card,9.244,4.761904762,6.2
+266-20-6657,03-12-2019,19:39:00,C,Pune,Member,Male,Food and beverages,55.04,7,385.28,19.264,404.544,E-wallet,19.264,4.761904762,5.2
+427-45-9297,03-12-2019,11:01:00,B,Nashik,Member,Female,Home and lifestyle,40.73,7,285.11,14.2555,299.3655,E-wallet,14.2555,4.761904762,5.4
+732-94-0499,13-01-2019,17:04:00,C,Pune,Normal,Female,Electronic accessories,41.65,10,416.5,20.825,437.325,Credit Card,20.825,4.761904762,5.4
+556-86-3144,13-01-2019,19:30:00,C,Pune,Member,Female,Fashion accessories,74.29,1,74.29,3.7145,78.0045,Cash,3.7145,4.761904762,5
+459-50-7686,13-01-2019,19:14:00,A,Mumbai,Normal,Female,Electronic accessories,23.46,6,140.76,7.038,147.798,E-wallet,7.038,4.761904762,6.4
+339-38-9982,13-01-2019,14:55:00,B,Nashik,Member,Male,Fashion accessories,59.86,2,119.72,5.986,125.706,E-wallet,5.986,4.761904762,6.7
+355-34-6244,13-01-2019,19:55:00,B,Nashik,Normal,Male,Food and beverages,72.39,2,144.78,7.239,152.019,Credit Card,7.239,4.761904762,8.1
+327-40-9673,13-01-2019,19:51:00,B,Nashik,Member,Male,Sports and travel,72.6,6,435.6,21.78,457.38,Cash,21.78,4.761904762,6.9
+460-93-5834,13-01-2019,10:03:00,A,Mumbai,Normal,Male,Sports and travel,45.58,7,319.06,15.953,335.013,Cash,15.953,4.761904762,5
+397-25-8725,13-01-2019,17:54:00,A,Mumbai,Member,Female,Health and beauty,39.62,9,356.58,17.829,374.409,Credit Card,17.829,4.761904762,6.8
+784-08-0310,13-01-2019,13:58:00,C,Pune,Member,Female,Food and beverages,21.04,4,84.16,4.208,88.368,Cash,4.208,4.761904762,7.6
+195-06-0432,13-01-2019,12:55:00,A,Mumbai,Member,Male,Home and lifestyle,81.01,3,243.03,12.1515,255.1815,Credit Card,12.1515,4.761904762,9.3
+426-39-2418,14-01-2019,10:02:00,C,Pune,Normal,Male,Electronic accessories,61.41,7,429.87,21.4935,451.3635,Cash,21.4935,4.761904762,9.8
+785-13-7708,14-01-2019,19:06:00,B,Nashik,Normal,Male,Food and beverages,73.06,7,511.42,25.571,536.991,Credit Card,25.571,4.761904762,4.2
+667-23-5919,14-01-2019,12:52:00,A,Mumbai,Member,Female,Fashion accessories,96.7,5,483.5,24.175,507.675,E-wallet,24.175,4.761904762,7
+868-52-7573,14-01-2019,12:09:00,B,Nashik,Normal,Female,Food and beverages,99.69,5,498.45,24.9225,523.3725,Cash,24.9225,4.761904762,9.9
+592-34-6155,14-01-2019,14:43:00,C,Pune,Normal,Male,Food and beverages,31.77,4,127.08,6.354,133.434,E-wallet,6.354,4.761904762,6.2
+359-90-3665,14-01-2019,18:03:00,B,Nashik,Member,Female,Fashion accessories,18.08,4,72.32,3.616,75.936,Credit Card,3.616,4.761904762,9.5
+588-47-8641,14-01-2019,19:30:00,A,Mumbai,Member,Male,Fashion accessories,56.04,10,560.4,28.02,588.42,E-wallet,28.02,4.761904762,4.4
+320-85-2052,14-01-2019,10:11:00,B,Nashik,Normal,Female,Sports and travel,34.81,1,34.81,1.7405,36.5505,Credit Card,1.7405,4.761904762,7
+451-73-2711,14-01-2019,15:20:00,C,Pune,Normal,Male,Food and beverages,84.83,1,84.83,4.2415,89.0715,E-wallet,4.2415,4.761904762,8.8
+704-10-4056,14-01-2019,10:55:00,C,Pune,Member,Male,Health and beauty,60.47,3,181.41,9.0705,190.4805,Credit Card,9.0705,4.761904762,5.6
+559-61-5987,14-01-2019,10:38:00,B,Nashik,Normal,Female,Health and beauty,17.75,1,17.75,0.8875,18.6375,Cash,0.8875,4.761904762,8.6
+658-66-3967,14-01-2019,15:42:00,C,Pune,Normal,Male,Health and beauty,53.19,7,372.33,18.6165,390.9465,E-wallet,18.6165,4.761904762,5
+377-79-7592,14-01-2019,14:00:00,C,Pune,Member,Female,Electronic accessories,44.84,9,403.56,20.178,423.738,Credit Card,20.178,4.761904762,7.5
+299-46-1805,15-01-2019,16:19:00,B,Nashik,Member,Female,Sports and travel,93.72,6,562.32,28.116,590.436,Cash,28.116,4.761904762,4.5
+272-65-1806,15-01-2019,17:17:00,A,Mumbai,Normal,Female,Electronic accessories,60.88,9,547.92,27.396,575.316,E-wallet,27.396,4.761904762,4.7
+437-58-8131,15-01-2019,13:41:00,B,Nashik,Normal,Female,Fashion accessories,73.52,2,147.04,7.352,154.392,E-wallet,7.352,4.761904762,4.6
+450-28-2866,15-01-2019,19:25:00,C,Pune,Member,Male,Food and beverages,17.44,5,87.2,4.36,91.56,Cash,4.36,4.761904762,8.1
+138-17-5109,15-01-2019,15:42:00,A,Mumbai,Member,Female,Home and lifestyle,89.21,9,802.89,40.1445,843.0345,Credit Card,40.1445,4.761904762,6.5
+301-11-9629,15-01-2019,10:43:00,A,Mumbai,Normal,Female,Sports and travel,19.1,7,133.7,6.685,140.385,Cash,6.685,4.761904762,9.7
+589-02-8023,15-01-2019,10:54:00,A,Mumbai,Member,Male,Food and beverages,83.77,2,167.54,8.377,175.917,Credit Card,8.377,4.761904762,7
+188-55-0967,15-01-2019,15:01:00,B,Nashik,Member,Male,Health and beauty,66.47,10,664.7,33.235,697.935,Credit Card,33.235,4.761904762,5
+369-82-2676,15-01-2019,18:22:00,B,Nashik,Normal,Male,Electronic accessories,75.66,5,378.3,18.915,397.215,E-wallet,18.915,4.761904762,7.8
+314-23-4520,15-01-2019,20:44:00,C,Pune,Member,Male,Health and beauty,81.23,7,568.61,28.4305,597.0405,Cash,28.4305,4.761904762,9
+886-54-6089,15-01-2019,17:24:00,A,Mumbai,Normal,Female,Home and lifestyle,11.43,6,68.58,3.429,72.009,Cash,3.429,4.761904762,7.7
+744-16-7898,15-01-2019,13:48:00,B,Nashik,Normal,Female,Home and lifestyle,97.37,10,973.7,48.685,1022.385,Credit Card,48.685,4.761904762,4.9
+660-29-7083,15-01-2019,15:01:00,C,Pune,Normal,Male,Electronic accessories,55.87,10,558.7,27.935,586.635,Cash,27.935,4.761904762,5.8
+659-65-8956,16-01-2019,15:26:00,B,Nashik,Member,Male,Fashion accessories,51.36,1,51.36,2.568,53.928,E-wallet,2.568,4.761904762,5.2
+234-65-2137,16-01-2019,13:32:00,C,Pune,Normal,Male,Home and lifestyle,95.58,10,955.8,47.79,1003.59,Cash,47.79,4.761904762,4.8
+677-11-0152,16-01-2019,18:08:00,C,Pune,Normal,Female,Food and beverages,93.26,9,839.34,41.967,881.307,Cash,41.967,4.761904762,8.8
+347-72-6115,16-01-2019,18:03:00,B,Nashik,Member,Female,Sports and travel,90.74,7,635.18,31.759,666.939,Credit Card,31.759,4.761904762,6.2
+286-62-6248,16-01-2019,20:03:00,B,Nashik,Normal,Male,Fashion accessories,39.21,4,156.84,7.842,164.682,Credit Card,7.842,4.761904762,9
+859-71-0933,16-01-2019,15:10:00,C,Pune,Member,Female,Sports and travel,15.49,2,30.98,1.549,32.529,Cash,1.549,4.761904762,6.3
+842-29-4695,16-01-2019,12:07:00,C,Pune,Member,Male,Sports and travel,17.14,7,119.98,5.999,125.979,Credit Card,5.999,4.761904762,7.9
+648-83-1321,16-01-2019,17:59:00,A,Mumbai,Member,Male,Home and lifestyle,63.56,10,635.6,31.78,667.38,Cash,31.78,4.761904762,4.3
+372-62-5264,16-01-2019,14:42:00,C,Pune,Normal,Female,Food and beverages,52.6,9,473.4,23.67,497.07,Cash,23.67,4.761904762,7.6
+618-34-8551,16-01-2019,18:41:00,A,Mumbai,Normal,Female,Sports and travel,93.18,2,186.36,9.318,195.678,Credit Card,9.318,4.761904762,8.5
+280-35-5823,17-01-2019,18:45:00,B,Nashik,Member,Female,Home and lifestyle,86.72,1,86.72,4.336,91.056,E-wallet,4.336,4.761904762,7.9
+746-54-5508,17-01-2019,12:48:00,A,Mumbai,Normal,Male,Home and lifestyle,21.52,6,129.12,6.456,135.576,Credit Card,6.456,4.761904762,9.4
+600-38-9738,17-01-2019,15:05:00,C,Pune,Member,Male,Sports and travel,71.92,5,359.6,17.98,377.58,Credit Card,17.98,4.761904762,4.3
+698-98-5964,17-01-2019,13:01:00,A,Mumbai,Normal,Female,Food and beverages,81.21,10,812.1,40.605,852.705,Credit Card,40.605,4.761904762,6.3
+349-97-8902,17-01-2019,10:37:00,B,Nashik,Member,Male,Food and beverages,57.89,2,115.78,5.789,121.569,E-wallet,5.789,4.761904762,8.9
+670-79-6321,17-01-2019,15:27:00,B,Nashik,Member,Female,Home and lifestyle,94.59,7,662.13,33.1065,695.2365,Credit Card,33.1065,4.761904762,4.9
+679-22-6530,17-01-2019,10:01:00,B,Nashik,Normal,Female,Sports and travel,40.62,2,81.24,4.062,85.302,Credit Card,4.062,4.761904762,4.1
+445-30-9252,17-01-2019,17:59:00,A,Mumbai,Normal,Male,Sports and travel,25.7,3,77.1,3.855,80.955,E-wallet,3.855,4.761904762,6.1
+200-16-5952,17-01-2019,16:46:00,C,Pune,Member,Male,Food and beverages,65.65,2,131.3,6.565,137.865,Cash,6.565,4.761904762,6
+497-37-6538,17-01-2019,15:15:00,A,Mumbai,Normal,Male,Sports and travel,58.91,7,412.37,20.6185,432.9885,E-wallet,20.6185,4.761904762,9.7
+101-81-4070,17-01-2019,12:36:00,C,Pune,Member,Female,Health and beauty,62.82,2,125.64,6.282,131.922,E-wallet,6.282,4.761904762,4.9
+700-81-1757,18-01-2019,20:59:00,A,Mumbai,Normal,Female,Electronic accessories,26.31,5,131.55,6.5775,138.1275,Credit Card,6.5775,4.761904762,8.8
+414-12-7047,18-01-2019,12:04:00,B,Nashik,Normal,Male,Food and beverages,19.79,8,158.32,7.916,166.236,E-wallet,7.916,4.761904762,8.7
+622-20-1945,18-01-2019,15:08:00,C,Pune,Normal,Female,Health and beauty,39.42,1,39.42,1.971,41.391,Cash,1.971,4.761904762,8.4
+706-36-6154,18-01-2019,18:43:00,A,Mumbai,Member,Male,Home and lifestyle,19.36,9,174.24,8.712,182.952,E-wallet,8.712,4.761904762,8.7
+562-12-5430,18-01-2019,10:11:00,A,Mumbai,Member,Female,Fashion accessories,88.15,3,264.45,13.2225,277.6725,E-wallet,13.2225,4.761904762,7.9
+821-14-9046,18-01-2019,15:04:00,B,Nashik,Member,Female,Fashion accessories,17.48,6,104.88,5.244,110.124,Credit Card,5.244,4.761904762,6.1
+678-79-0726,18-01-2019,15:28:00,C,Pune,Member,Female,Sports and travel,90.63,9,815.67,40.7835,856.4535,Cash,40.7835,4.761904762,5.1
+166-19-2553,18-01-2019,17:26:00,A,Mumbai,Member,Male,Sports and travel,89.06,6,534.36,26.718,561.078,Cash,26.718,4.761904762,9.9
+781-84-8059,18-01-2019,16:23:00,C,Pune,Normal,Male,Fashion accessories,60.74,7,425.18,21.259,446.439,E-wallet,21.259,4.761904762,5
+645-44-1170,19-01-2019,20:07:00,A,Mumbai,Member,Male,Home and lifestyle,58.07,9,522.63,26.1315,548.7615,E-wallet,26.1315,4.761904762,4.3
+894-41-5205,19-01-2019,19:39:00,C,Pune,Normal,Female,Food and beverages,43.18,8,345.44,17.272,362.712,Credit Card,17.272,4.761904762,8.3
+796-32-9050,19-01-2019,16:31:00,A,Mumbai,Normal,Male,Food and beverages,51.28,6,307.68,15.384,323.064,Cash,15.384,4.761904762,6.5
+608-27-6295,19-01-2019,17:34:00,B,Nashik,Member,Male,Electronic accessories,52.89,6,317.34,15.867,333.207,Credit Card,15.867,4.761904762,9.8
+779-06-0012,19-01-2019,10:21:00,C,Pune,Member,Female,Home and lifestyle,88.61,1,88.61,4.4305,93.0405,Cash,4.4305,4.761904762,7.7
+882-40-4577,19-01-2019,15:28:00,A,Mumbai,Member,Male,Sports and travel,67.26,4,269.04,13.452,282.492,Credit Card,13.452,4.761904762,8
+375-72-3056,19-01-2019,15:58:00,B,Nashik,Normal,Male,Sports and travel,63.06,3,189.18,9.459,198.639,E-wallet,9.459,4.761904762,7
+284-54-4231,19-01-2019,16:08:00,C,Pune,Member,Male,Sports and travel,80.93,1,80.93,4.0465,84.9765,Credit Card,4.0465,4.761904762,9
+149-61-1929,19-01-2019,14:08:00,A,Mumbai,Normal,Male,Sports and travel,64.19,10,641.9,32.095,673.995,Credit Card,32.095,4.761904762,6.7
+482-17-1179,19-01-2019,12:47:00,A,Mumbai,Member,Male,Electronic accessories,11.94,3,35.82,1.791,37.611,Credit Card,1.791,4.761904762,8.1
+832-51-6761,19-01-2019,20:29:00,A,Mumbai,Normal,Male,Food and beverages,33.88,8,271.04,13.552,284.592,E-wallet,13.552,4.761904762,9.6
+125-45-2293,19-01-2019,13:11:00,A,Mumbai,Normal,Female,Fashion accessories,99.1,6,594.6,29.73,624.33,Cash,29.73,4.761904762,4.2
+761-49-0439,19-01-2019,10:17:00,B,Nashik,Member,Female,Electronic accessories,12.1,8,96.8,4.84,101.64,E-wallet,4.84,4.761904762,8.6
+151-27-8496,19-01-2019,11:43:00,C,Pune,Normal,Female,Electronic accessories,56.13,4,224.52,11.226,235.746,E-wallet,11.226,4.761904762,8.6
+809-69-9497,19-01-2019,19:30:00,A,Mumbai,Normal,Female,Home and lifestyle,45.68,10,456.8,22.84,479.64,E-wallet,22.84,4.761904762,5.7
+728-47-9078,19-01-2019,12:46:00,C,Pune,Member,Male,Food and beverages,59.59,4,238.36,11.918,250.278,Cash,11.918,4.761904762,9.8
+817-48-8732,20-01-2019,15:55:00,A,Mumbai,Member,Female,Home and lifestyle,72.35,10,723.5,36.175,759.675,Cash,36.175,4.761904762,5.4
+378-24-2715,20-01-2019,20:38:00,B,Nashik,Normal,Male,Home and lifestyle,53.44,2,106.88,5.344,112.224,E-wallet,5.344,4.761904762,4.1
+645-78-8093,20-01-2019,18:09:00,A,Mumbai,Normal,Female,Sports and travel,93.14,2,186.28,9.314,195.594,E-wallet,9.314,4.761904762,4.1
+725-96-3778,20-01-2019,10:13:00,C,Pune,Member,Female,Home and lifestyle,89.25,8,714,35.7,749.7,Cash,35.7,4.761904762,4.7
+257-73-1380,20-01-2019,16:51:00,C,Pune,Member,Male,Sports and travel,82.93,4,331.72,16.586,348.306,E-wallet,16.586,4.761904762,9.6
+356-44-8813,20-01-2019,13:45:00,B,Nashik,Normal,Male,Home and lifestyle,37.48,3,112.44,5.622,118.062,Credit Card,5.622,4.761904762,7.7
+760-27-5490,20-01-2019,20:37:00,C,Pune,Normal,Male,Fashion accessories,15.62,8,124.96,6.248,131.208,E-wallet,6.248,4.761904762,9.1
+410-67-1709,20-01-2019,17:48:00,A,Mumbai,Member,Female,Fashion accessories,63.88,8,511.04,25.552,536.592,E-wallet,25.552,4.761904762,9.9
+787-87-2010,20-01-2019,15:48:00,A,Mumbai,Member,Male,Health and beauty,55.5,4,222,11.1,233.1,Credit Card,11.1,4.761904762,6.6
+458-10-8612,20-01-2019,12:27:00,C,Pune,Normal,Male,Health and beauty,64.08,7,448.56,22.428,470.988,E-wallet,22.428,4.761904762,7.6
+329-62-1586,21-01-2019,18:00:00,A,Mumbai,Normal,Male,Food and beverages,54.67,3,164.01,8.2005,172.2105,Credit Card,8.2005,4.761904762,8.6
+870-72-4431,21-01-2019,14:42:00,C,Pune,Normal,Female,Health and beauty,99.19,6,595.14,29.757,624.897,Credit Card,29.757,4.761904762,5.5
+239-10-7476,21-01-2019,16:37:00,A,Mumbai,Normal,Female,Home and lifestyle,77.95,6,467.7,23.385,491.085,E-wallet,23.385,4.761904762,8
+316-68-6352,21-01-2019,10:00:00,A,Mumbai,Member,Female,Food and beverages,36.36,2,72.72,3.636,76.356,Cash,3.636,4.761904762,7.1
+462-67-9126,21-01-2019,17:44:00,A,Mumbai,Normal,Male,Home and lifestyle,73.22,6,439.32,21.966,461.286,Cash,21.966,4.761904762,7.2
+269-10-8440,21-01-2019,18:01:00,A,Mumbai,Member,Male,Health and beauty,53.17,7,372.19,18.6095,390.7995,Cash,18.6095,4.761904762,8.9
+401-18-8016,21-01-2019,17:36:00,B,Nashik,Member,Female,Sports and travel,98.13,1,98.13,4.9065,103.0365,Cash,4.9065,4.761904762,8.9
+162-65-8559,21-01-2019,20:13:00,C,Pune,Member,Male,Food and beverages,68.98,1,68.98,3.449,72.429,Cash,3.449,4.761904762,4.8
+287-21-9091,22-01-2019,10:55:00,A,Mumbai,Normal,Male,Home and lifestyle,74.67,9,672.03,33.6015,705.6315,E-wallet,33.6015,4.761904762,9.4
+756-01-7507,22-01-2019,18:56:00,C,Pune,Normal,Female,Health and beauty,20.38,5,101.9,5.095,106.995,Cash,5.095,4.761904762,6
+186-09-3669,22-01-2019,10:57:00,C,Pune,Member,Female,Health and beauty,81.51,1,81.51,4.0755,85.5855,E-wallet,4.0755,4.761904762,9.2
+521-18-7827,22-01-2019,20:46:00,C,Pune,Member,Male,Home and lifestyle,39.39,5,196.95,9.8475,206.7975,Credit Card,9.8475,4.761904762,8.7
+460-35-4390,22-01-2019,11:00:00,A,Mumbai,Normal,Male,Home and lifestyle,30.68,3,92.04,4.602,96.642,E-wallet,4.602,4.761904762,9.1
+563-47-4072,22-01-2019,11:52:00,B,Nashik,Normal,Female,Health and beauty,55.81,6,334.86,16.743,351.603,Cash,16.743,4.761904762,9.9
+120-54-2248,22-01-2019,18:08:00,B,Nashik,Normal,Female,Food and beverages,28.86,5,144.3,7.215,151.515,Credit Card,7.215,4.761904762,8
+480-63-2856,23-01-2019,18:37:00,C,Pune,Normal,Male,Food and beverages,19.25,8,154,7.7,161.7,E-wallet,7.7,4.761904762,6.6
+565-80-5980,23-01-2019,10:25:00,C,Pune,Member,Female,Home and lifestyle,47.38,4,189.52,9.476,198.996,Cash,9.476,4.761904762,7.1
+731-81-9469,23-01-2019,13:00:00,C,Pune,Member,Female,Sports and travel,89.8,10,898,44.9,942.9,Credit Card,44.9,4.761904762,5.4
+434-83-9547,23-01-2019,11:51:00,C,Pune,Member,Male,Food and beverages,38.47,8,307.76,15.388,323.148,Cash,15.388,4.761904762,7.7
+604-70-6476,23-01-2019,14:04:00,A,Mumbai,Member,Male,Fashion accessories,17.94,5,89.7,4.485,94.185,E-wallet,4.485,4.761904762,6.8
+740-22-2500,23-01-2019,13:29:00,C,Pune,Normal,Female,Electronic accessories,84.05,3,252.15,12.6075,264.7575,Cash,12.6075,4.761904762,9.8
+767-05-1286,23-01-2019,12:10:00,C,Pune,Member,Female,Home and lifestyle,83.77,6,502.62,25.131,527.751,E-wallet,25.131,4.761904762,5.4
+213-32-1216,23-01-2019,10:28:00,A,Mumbai,Normal,Female,Electronic accessories,66.06,6,396.36,19.818,416.178,Cash,19.818,4.761904762,7.3
+219-61-4139,23-01-2019,17:16:00,C,Pune,Normal,Male,Electronic accessories,83.08,1,83.08,4.154,87.234,E-wallet,4.154,4.761904762,6.4
+318-12-0304,23-01-2019,12:20:00,A,Mumbai,Normal,Male,Fashion accessories,30.61,1,30.61,1.5305,32.1405,E-wallet,1.5305,4.761904762,5.2
+828-46-6863,23-01-2019,11:22:00,A,Mumbai,Member,Male,Food and beverages,98.53,6,591.18,29.559,620.739,Credit Card,29.559,4.761904762,4
+790-38-4466,23-01-2019,10:18:00,C,Pune,Normal,Female,Health and beauty,10.99,5,54.95,2.7475,57.6975,Credit Card,2.7475,4.761904762,9.3
+477-59-2456,23-01-2019,11:15:00,C,Pune,Normal,Female,Fashion accessories,45.44,7,318.08,15.904,333.984,Cash,15.904,4.761904762,9.2
+160-22-2687,23-01-2019,14:21:00,A,Mumbai,Member,Female,Health and beauty,95.95,5,479.75,23.9875,503.7375,E-wallet,23.9875,4.761904762,8.8
+316-66-3011,23-01-2019,12:35:00,A,Mumbai,Member,Female,Food and beverages,47.63,9,428.67,21.4335,450.1035,Cash,21.4335,4.761904762,5
+809-46-1866,23-01-2019,17:44:00,A,Mumbai,Normal,Male,Health and beauty,58.15,4,232.6,11.63,244.23,Cash,11.63,4.761904762,8.4
+148-41-7930,23-01-2019,10:33:00,C,Pune,Normal,Male,Health and beauty,99.96,7,699.72,34.986,734.706,Cash,34.986,4.761904762,6.1
+232-11-3025,24-01-2019,10:04:00,A,Mumbai,Normal,Male,Sports and travel,78.77,10,787.7,39.385,827.085,Cash,39.385,4.761904762,6.4
+139-20-0155,24-01-2019,17:37:00,B,Nashik,Member,Male,Electronic accessories,40.3,10,403,20.15,423.15,Credit Card,20.15,4.761904762,7
+726-27-2396,24-01-2019,20:36:00,A,Mumbai,Normal,Female,Health and beauty,77.5,5,387.5,19.375,406.875,E-wallet,19.375,4.761904762,4.3
+435-13-4908,24-01-2019,18:04:00,A,Mumbai,Member,Male,Fashion accessories,86.68,8,693.44,34.672,728.112,Credit Card,34.672,4.761904762,7.2
+789-23-8625,24-01-2019,11:45:00,B,Nashik,Member,Male,Fashion accessories,93.22,3,279.66,13.983,293.643,Cash,13.983,4.761904762,7.2
+510-79-0415,24-01-2019,19:20:00,B,Nashik,Member,Female,Sports and travel,23.08,6,138.48,6.924,145.404,E-wallet,6.924,4.761904762,4.9
+438-23-1242,24-01-2019,10:38:00,B,Nashik,Normal,Male,Electronic accessories,75.88,7,531.16,26.558,557.718,E-wallet,26.558,4.761904762,8.9
+775-72-1988,24-01-2019,15:05:00,B,Nashik,Normal,Male,Home and lifestyle,73.28,5,366.4,18.32,384.72,E-wallet,18.32,4.761904762,8.4
+443-60-9639,24-01-2019,13:24:00,C,Pune,Member,Female,Home and lifestyle,60.87,1,60.87,3.0435,63.9135,Cash,3.0435,4.761904762,5.5
+778-34-2523,24-01-2019,10:57:00,A,Mumbai,Member,Female,Electronic accessories,48.62,8,388.96,19.448,408.408,Cash,19.448,4.761904762,5
+237-44-6163,24-01-2019,17:43:00,A,Mumbai,Normal,Male,Electronic accessories,10.56,8,84.48,4.224,88.704,Cash,4.224,4.761904762,7.6
+235-06-8510,24-01-2019,20:59:00,C,Pune,Member,Male,Home and lifestyle,85.72,3,257.16,12.858,270.018,E-wallet,12.858,4.761904762,5.1
+602-16-6955,24-01-2019,18:10:00,B,Nashik,Normal,Female,Sports and travel,76.6,10,766,38.3,804.3,E-wallet,38.3,4.761904762,6
+145-94-9061,25-01-2019,19:48:00,B,Nashik,Normal,Female,Food and beverages,88.36,5,441.8,22.09,463.89,Cash,22.09,4.761904762,9.6
+778-71-5554,25-01-2019,15:46:00,C,Pune,Member,Male,Fashion accessories,15.43,1,15.43,0.7715,16.2015,Credit Card,0.7715,4.761904762,6.1
+191-10-6171,25-01-2019,13:18:00,B,Nashik,Normal,Female,Fashion accessories,39.62,7,277.34,13.867,291.207,Cash,13.867,4.761904762,7.5
+280-17-4359,25-01-2019,13:48:00,C,Pune,Member,Male,Health and beauty,90.5,10,905,45.25,950.25,Cash,45.25,4.761904762,8.1
+824-88-3614,25-01-2019,15:00:00,C,Pune,Normal,Male,Health and beauty,34.31,8,274.48,13.724,288.204,E-wallet,13.724,4.761904762,5.7
+888-02-0338,25-01-2019,20:24:00,A,Mumbai,Normal,Male,Electronic accessories,26.23,9,236.07,11.8035,247.8735,E-wallet,11.8035,4.761904762,5.9
+283-79-9594,25-01-2019,13:30:00,B,Nashik,Normal,Female,Food and beverages,48.51,7,339.57,16.9785,356.5485,Credit Card,16.9785,4.761904762,5.2
+307-83-9164,25-01-2019,15:54:00,A,Mumbai,Member,Male,Home and lifestyle,60.01,4,240.04,12.002,252.042,Cash,12.002,4.761904762,4.5
+730-61-8757,25-01-2019,10:11:00,B,Nashik,Member,Male,Health and beauty,51.13,4,204.52,10.226,214.746,Credit Card,10.226,4.761904762,4
+261-12-8671,25-01-2019,19:39:00,B,Nashik,Normal,Female,Fashion accessories,60.96,2,121.92,6.096,128.016,Credit Card,6.096,4.761904762,4.9
+569-71-4390,25-01-2019,14:29:00,B,Nashik,Normal,Male,Sports and travel,21.87,2,43.74,2.187,45.927,E-wallet,2.187,4.761904762,6.9
+268-03-6164,25-01-2019,16:28:00,B,Nashik,Normal,Male,Health and beauty,96.11,1,96.11,4.8055,100.9155,E-wallet,4.8055,4.761904762,7.8
+340-21-9136,25-01-2019,11:40:00,A,Mumbai,Member,Female,Sports and travel,40.05,4,160.2,8.01,168.21,Cash,8.01,4.761904762,9.7
+856-66-2701,25-01-2019,14:19:00,A,Mumbai,Member,Male,Home and lifestyle,53.3,3,159.9,7.995,167.895,E-wallet,7.995,4.761904762,7.5
+394-55-6384,25-01-2019,13:38:00,C,Pune,Member,Female,Sports and travel,70.19,9,631.71,31.5855,663.2955,Cash,31.5855,4.761904762,6.7
+288-38-3758,25-01-2019,18:30:00,C,Pune,Member,Female,Fashion accessories,84.87,3,254.61,12.7305,267.3405,E-wallet,12.7305,4.761904762,7.4
+843-73-4724,25-01-2019,11:05:00,A,Mumbai,Normal,Male,Fashion accessories,74.1,1,74.1,3.705,77.805,Cash,3.705,4.761904762,9.2
+847-38-7188,26-01-2019,19:56:00,B,Nashik,Normal,Female,Food and beverages,96.68,3,290.04,14.502,304.542,E-wallet,14.502,4.761904762,6.4
+225-32-0908,26-01-2019,19:54:00,C,Pune,Normal,Female,Sports and travel,44.86,10,448.6,22.43,471.03,E-wallet,22.43,4.761904762,8.2
+316-55-4634,26-01-2019,12:45:00,B,Nashik,Member,Male,Food and beverages,80.05,5,400.25,20.0125,420.2625,Credit Card,20.0125,4.761904762,9.4
+641-43-2399,26-01-2019,20:23:00,B,Nashik,Normal,Male,Home and lifestyle,25.55,4,102.2,5.11,107.31,E-wallet,5.11,4.761904762,5.7
+836-82-5858,26-01-2019,19:14:00,B,Nashik,Member,Male,Health and beauty,69.37,9,624.33,31.2165,655.5465,E-wallet,31.2165,4.761904762,4
+289-65-5721,26-01-2019,19:28:00,B,Nashik,Normal,Female,Fashion accessories,81.37,2,162.74,8.137,170.877,Cash,8.137,4.761904762,6.5
+834-61-8124,26-01-2019,18:22:00,A,Mumbai,Normal,Male,Electronic accessories,51.69,7,361.83,18.0915,379.9215,Cash,18.0915,4.761904762,5.5
+173-82-9529,26-01-2019,14:51:00,B,Nashik,Normal,Female,Fashion accessories,37.95,10,379.5,18.975,398.475,Cash,18.975,4.761904762,9.7
+539-21-7227,26-01-2019,17:45:00,B,Nashik,Normal,Female,Sports and travel,51.54,5,257.7,12.885,270.585,Cash,12.885,4.761904762,4.2
+258-69-7810,26-01-2019,18:53:00,C,Pune,Normal,Female,Fashion accessories,36.85,5,184.25,9.2125,193.4625,Cash,9.2125,4.761904762,9.2
+881-41-7302,26-01-2019,10:06:00,C,Pune,Normal,Female,Fashion accessories,64.99,1,64.99,3.2495,68.2395,Credit Card,3.2495,4.761904762,4.5
+135-13-8269,26-01-2019,16:04:00,B,Nashik,Member,Female,Food and beverages,78.88,2,157.76,7.888,165.648,Cash,7.888,4.761904762,9.1
+308-39-1707,26-01-2019,18:19:00,A,Mumbai,Normal,Female,Fashion accessories,12.09,1,12.09,0.6045,12.6945,Credit Card,0.6045,4.761904762,8.2
+896-34-0956,26-01-2019,12:43:00,A,Mumbai,Normal,Male,Fashion accessories,21.32,1,21.32,1.066,22.386,Cash,1.066,4.761904762,5.9
+176-78-1170,26-01-2019,15:11:00,C,Pune,Member,Male,Health and beauty,33.81,3,101.43,5.0715,106.5015,E-wallet,5.0715,4.761904762,7.3
+794-42-3736,26-01-2019,14:41:00,B,Nashik,Normal,Male,Food and beverages,33.33,2,66.66,3.333,69.993,Credit Card,3.333,4.761904762,6.4
+452-04-8808,26-01-2019,15:17:00,B,Nashik,Normal,Male,Electronic accessories,87.08,7,609.56,30.478,640.038,Cash,30.478,4.761904762,5.5
+123-19-1176,27-01-2019,20:33:00,A,Mumbai,Member,Male,Health and beauty,58.22,8,465.76,23.288,489.048,E-wallet,23.288,4.761904762,8.4
+870-54-3162,27-01-2019,13:26:00,A,Mumbai,Normal,Female,Sports and travel,32.25,5,161.25,8.0625,169.3125,Cash,8.0625,4.761904762,9
+633-91-1052,27-01-2019,15:51:00,A,Mumbai,Normal,Female,Home and lifestyle,12.03,2,24.06,1.203,25.263,Cash,1.203,4.761904762,5.1
+613-59-9758,27-01-2019,14:28:00,C,Pune,Normal,Female,Sports and travel,14.36,10,143.6,7.18,150.78,Cash,7.18,4.761904762,5.4
+394-41-0748,27-01-2019,14:55:00,C,Pune,Member,Female,Fashion accessories,54.07,9,486.63,24.3315,510.9615,E-wallet,24.3315,4.761904762,9.5
+325-90-8763,27-01-2019,13:58:00,C,Pune,Member,Female,Electronic accessories,46.57,10,465.7,23.285,488.985,Cash,23.285,4.761904762,7.6
+862-59-8517,27-01-2019,11:17:00,C,Pune,Normal,Female,Food and beverages,90.24,6,541.44,27.072,568.512,Cash,27.072,4.761904762,6.2
+620-02-2046,27-01-2019,19:48:00,C,Pune,Normal,Male,Home and lifestyle,69.4,2,138.8,6.94,145.74,E-wallet,6.94,4.761904762,9
+595-27-4851,27-01-2019,18:05:00,A,Mumbai,Normal,Female,Fashion accessories,54.28,7,379.96,18.998,398.958,E-wallet,18.998,4.761904762,9.3
+534-01-4457,27-01-2019,14:36:00,A,Mumbai,Normal,Male,Food and beverages,81.71,6,490.26,24.513,514.773,Credit Card,24.513,4.761904762,8
+788-07-8452,27-01-2019,17:38:00,C,Pune,Member,Female,Home and lifestyle,24.24,7,169.68,8.484,178.164,E-wallet,8.484,4.761904762,9.4
+869-11-3082,27-01-2019,20:03:00,B,Nashik,Member,Male,Health and beauty,96.16,4,384.64,19.232,403.872,Credit Card,19.232,4.761904762,8.4
+585-90-0249,27-01-2019,18:08:00,A,Mumbai,Member,Male,Electronic accessories,73.26,1,73.26,3.663,76.923,E-wallet,3.663,4.761904762,9.7
+624-01-8356,27-01-2019,10:44:00,B,Nashik,Normal,Female,Home and lifestyle,49.01,10,490.1,24.505,514.605,Credit Card,24.505,4.761904762,4.2
+149-71-6266,28-01-2019,12:43:00,B,Nashik,Member,Male,Sports and travel,78.07,9,702.63,35.1315,737.7615,Cash,35.1315,4.761904762,4.5
+400-89-4171,28-01-2019,13:05:00,C,Pune,Normal,Female,Sports and travel,80.97,8,647.76,32.388,680.148,Cash,32.388,4.761904762,9.3
+342-65-4817,28-01-2019,16:47:00,C,Pune,Member,Male,Health and beauty,86.8,3,260.4,13.02,273.42,E-wallet,13.02,4.761904762,9.9
+593-65-1552,28-01-2019,20:50:00,C,Pune,Normal,Female,Home and lifestyle,69.81,4,279.24,13.962,293.202,Credit Card,13.962,4.761904762,5.9
+211-30-9270,28-01-2019,15:16:00,C,Pune,Normal,Male,Health and beauty,17.41,5,87.05,4.3525,91.4025,Credit Card,4.3525,4.761904762,4.9
+372-26-1506,28-01-2019,19:24:00,C,Pune,Normal,Female,Fashion accessories,23.82,5,119.1,5.955,125.055,E-wallet,5.955,4.761904762,5.4
+390-80-5128,28-01-2019,17:58:00,B,Nashik,Member,Female,Health and beauty,19.15,1,19.15,0.9575,20.1075,Credit Card,0.9575,4.761904762,9.5
+726-29-6793,28-01-2019,20:54:00,A,Mumbai,Member,Male,Electronic accessories,24.18,8,193.44,9.672,203.112,E-wallet,9.672,4.761904762,9.8
+243-47-2663,28-01-2019,16:43:00,C,Pune,Member,Male,Electronic accessories,18.77,6,112.62,5.631,118.251,Credit Card,5.631,4.761904762,5.5
+222-42-0244,28-01-2019,13:53:00,B,Nashik,Member,Female,Health and beauty,72.11,9,648.99,32.4495,681.4395,Credit Card,32.4495,4.761904762,7.7
+544-55-9589,28-01-2019,11:51:00,B,Nashik,Member,Female,Electronic accessories,21.43,10,214.3,10.715,225.015,Cash,10.715,4.761904762,6.2
+699-88-1972,28-01-2019,17:47:00,B,Nashik,Normal,Male,Health and beauty,99.16,8,793.28,39.664,832.944,Credit Card,39.664,4.761904762,4.2
+865-41-9075,28-01-2019,17:35:00,A,Mumbai,Normal,Male,Food and beverages,11.53,7,80.71,4.0355,84.7455,Cash,4.0355,4.761904762,8.1
+430-53-4718,28-01-2019,15:46:00,B,Nashik,Member,Male,Health and beauty,75.37,8,602.96,30.148,633.108,Credit Card,30.148,4.761904762,8.4
+746-94-0204,29-01-2019,11:56:00,A,Mumbai,Normal,Male,Fashion accessories,83.24,9,749.16,37.458,786.618,Credit Card,37.458,4.761904762,7.4
+606-80-4905,29-01-2019,10:01:00,C,Pune,Member,Female,Sports and travel,19.15,6,114.9,5.745,120.645,Credit Card,5.745,4.761904762,6.8
+110-48-7033,29-01-2019,14:12:00,B,Nashik,Member,Male,Fashion accessories,32.62,4,130.48,6.524,137.004,Cash,6.524,4.761904762,9
+382-25-8917,29-01-2019,12:25:00,C,Pune,Normal,Male,Fashion accessories,42.08,6,252.48,12.624,265.104,Cash,12.624,4.761904762,8.9
+575-67-1508,29-01-2019,11:26:00,A,Mumbai,Normal,Male,Electronic accessories,38.6,1,38.6,1.93,40.53,E-wallet,1.93,4.761904762,6.7
+862-17-9201,29-01-2019,10:48:00,B,Nashik,Normal,Female,Food and beverages,84.05,6,504.3,25.215,529.515,Credit Card,25.215,4.761904762,7.7
+343-61-3544,29-01-2019,11:48:00,B,Nashik,Member,Male,Sports and travel,26.67,10,266.7,13.335,280.035,Cash,13.335,4.761904762,8.6
+816-72-8853,29-01-2019,15:48:00,A,Mumbai,Member,Female,Sports and travel,27.93,5,139.65,6.9825,146.6325,Cash,6.9825,4.761904762,5.9
+800-09-8606,29-01-2019,19:45:00,A,Mumbai,Member,Female,Home and lifestyle,87.37,5,436.85,21.8425,458.6925,Cash,21.8425,4.761904762,6.6
+137-63-5492,29-01-2019,14:26:00,C,Pune,Normal,Male,Electronic accessories,58.76,10,587.6,29.38,616.98,E-wallet,29.38,4.761904762,9
+569-76-2760,29-01-2019,18:15:00,A,Mumbai,Member,Female,Sports and travel,22.01,4,88.04,4.402,92.442,Credit Card,4.402,4.761904762,6.6
+233-67-5758,29-01-2019,13:46:00,C,Pune,Normal,Male,Health and beauty,40.35,1,40.35,2.0175,42.3675,E-wallet,2.0175,4.761904762,6.2
+423-80-0988,30-01-2019,19:42:00,C,Pune,Normal,Male,Sports and travel,76.4,2,152.8,7.64,160.44,E-wallet,7.64,4.761904762,6.5
+416-13-5917,30-01-2019,16:24:00,C,Pune,Normal,Female,Food and beverages,97.03,5,485.15,24.2575,509.4075,E-wallet,24.2575,4.761904762,9.3
+182-69-8360,30-01-2019,13:32:00,B,Nashik,Normal,Female,Electronic accessories,23.65,4,94.6,4.73,99.33,Credit Card,4.73,4.761904762,4
+556-72-8512,30-01-2019,20:47:00,C,Pune,Normal,Male,Home and lifestyle,22.96,1,22.96,1.148,24.108,Cash,1.148,4.761904762,4.3
+283-26-5248,30-01-2019,20:23:00,C,Pune,Member,Female,Food and beverages,98.52,10,985.2,49.26,1034.46,E-wallet,49.26,4.761904762,4.5
+134-54-4720,30-01-2019,13:58:00,B,Nashik,Normal,Female,Electronic accessories,42.42,8,339.36,16.968,356.328,E-wallet,16.968,4.761904762,5.7
+664-14-2882,30-01-2019,14:43:00,C,Pune,Member,Female,Home and lifestyle,10.53,5,52.65,2.6325,55.2825,Credit Card,2.6325,4.761904762,5.8
+804-38-3935,30-01-2019,11:32:00,A,Mumbai,Member,Male,Electronic accessories,93.78,3,281.34,14.067,295.407,Credit Card,14.067,4.761904762,5.9
+862-29-5914,30-01-2019,17:08:00,C,Pune,Normal,Female,Sports and travel,22.38,1,22.38,1.119,23.499,Credit Card,1.119,4.761904762,8.6
+239-36-3640,31-01-2019,13:44:00,B,Nashik,Normal,Male,Electronic accessories,45.35,6,272.1,13.605,285.705,E-wallet,13.605,4.761904762,6.1
+583-72-1480,31-01-2019,16:24:00,C,Pune,Member,Male,Electronic accessories,37.06,4,148.24,7.412,155.652,E-wallet,7.412,4.761904762,9.7
+366-93-0948,31-01-2019,10:46:00,A,Mumbai,Member,Male,Electronic accessories,66.35,1,66.35,3.3175,69.6675,Credit Card,3.3175,4.761904762,9.7
+226-71-3580,31-01-2019,12:02:00,C,Pune,Normal,Female,Sports and travel,23.75,9,213.75,10.6875,224.4375,Cash,10.6875,4.761904762,9.5
+532-59-7201,31-01-2019,14:04:00,B,Nashik,Member,Male,Sports and travel,79.93,6,479.58,23.979,503.559,Cash,23.979,4.761904762,5.5
+525-88-7307,31-01-2019,13:19:00,B,Nashik,Member,Male,Sports and travel,75.82,1,75.82,3.791,79.611,Cash,3.791,4.761904762,5.8
+286-75-7818,31-01-2019,19:48:00,B,Nashik,Normal,Male,Fashion accessories,69.08,2,138.16,6.908,145.068,Credit Card,6.908,4.761904762,6.9
+187-83-5490,31-01-2019,13:47:00,A,Mumbai,Member,Male,Electronic accessories,20.77,4,83.08,4.154,87.234,Cash,4.154,4.761904762,4.7
+834-45-5519,31-01-2019,20:48:00,B,Nashik,Normal,Female,Electronic accessories,43,4,172,8.6,180.6,E-wallet,8.6,4.761904762,7.6
+735-32-9839,31-01-2019,10:36:00,C,Pune,Member,Male,Fashion accessories,98.7,8,789.6,39.48,829.08,E-wallet,39.48,4.761904762,8.5
+525-09-8450,31-01-2019,15:12:00,B,Nashik,Normal,Male,Electronic accessories,72.13,10,721.3,36.065,757.365,Credit Card,36.065,4.761904762,4.2
+457-94-0464,31-01-2019,20:32:00,B,Nashik,Member,Male,Electronic accessories,87.87,9,790.83,39.5415,830.3715,E-wallet,39.5415,4.761904762,5.6
+189-55-2313,31-01-2019,10:33:00,C,Pune,Normal,Female,Fashion accessories,62.18,10,621.8,31.09,652.89,E-wallet,31.09,4.761904762,6
+522-57-8364,31-01-2019,10:00:00,A,Mumbai,Member,Male,Fashion accessories,51.34,8,410.72,20.536,431.256,E-wallet,20.536,4.761904762,7.6
+139-52-2867,13-02-2019,10:50:00,C,Pune,Normal,Female,Fashion accessories,22.51,7,157.57,7.8785,165.4485,Credit Card,7.8785,4.761904762,4.8
+151-16-1484,13-02-2019,12:38:00,A,Mumbai,Member,Male,Electronic accessories,32.25,4,129,6.45,135.45,E-wallet,6.45,4.761904762,6.5
+563-36-9814,13-02-2019,18:27:00,A,Mumbai,Member,Male,Electronic accessories,76.82,1,76.82,3.841,80.661,E-wallet,3.841,4.761904762,7.2
+767-54-1907,13-02-2019,16:59:00,B,Nashik,Member,Female,Fashion accessories,29.56,5,147.8,7.39,155.19,Cash,7.39,4.761904762,6.9
+173-50-1108,13-02-2019,12:14:00,B,Nashik,Member,Female,Sports and travel,20.18,4,80.72,4.036,84.756,Credit Card,4.036,4.761904762,5
+339-18-7061,13-02-2019,15:06:00,C,Pune,Member,Female,Fashion accessories,92.98,2,185.96,9.298,195.258,Credit Card,9.298,4.761904762,8
+388-76-2555,13-02-2019,13:59:00,B,Nashik,Normal,Male,Sports and travel,13.69,6,82.14,4.107,86.247,Cash,4.107,4.761904762,6.3
+549-23-9016,13-02-2019,18:15:00,C,Pune,Member,Female,Food and beverages,14.87,2,29.74,1.487,31.227,Credit Card,1.487,4.761904762,8.9
+853-23-2453,14-02-2019,14:35:00,B,Nashik,Member,Male,Health and beauty,75.74,4,302.96,15.148,318.108,Cash,15.148,4.761904762,7.6
+638-60-7125,14-02-2019,17:03:00,A,Mumbai,Normal,Female,Electronic accessories,99.56,8,796.48,39.824,836.304,Credit Card,39.824,4.761904762,5.2
+174-36-3675,14-02-2019,17:29:00,C,Pune,Member,Male,Food and beverages,99.37,2,198.74,9.937,208.677,Cash,9.937,4.761904762,5.2
+150-89-8043,14-02-2019,15:04:00,A,Mumbai,Normal,Male,Sports and travel,44.65,3,133.95,6.6975,140.6475,Cash,6.6975,4.761904762,6.2
+235-46-8343,14-02-2019,11:26:00,C,Pune,Member,Male,Food and beverages,27.66,10,276.6,13.83,290.43,Credit Card,13.83,4.761904762,8.9
+109-86-4363,14-02-2019,11:36:00,B,Nashik,Member,Female,Sports and travel,60.08,7,420.56,21.028,441.588,Credit Card,21.028,4.761904762,4.5
+528-14-9470,14-02-2019,14:42:00,A,Mumbai,Member,Male,Health and beauty,91.3,1,91.3,4.565,95.865,E-wallet,4.565,4.761904762,9.2
+545-07-8534,14-02-2019,12:42:00,C,Pune,Normal,Female,Health and beauty,58.32,2,116.64,5.832,122.472,E-wallet,5.832,4.761904762,6
+285-68-5083,15-02-2019,17:47:00,C,Pune,Member,Female,Sports and travel,24.74,3,74.22,3.711,77.931,Credit Card,3.711,4.761904762,10
+227-78-1148,15-02-2019,12:44:00,B,Nashik,Normal,Female,Fashion accessories,72.84,7,509.88,25.494,535.374,Cash,25.494,4.761904762,8.4
+394-43-4238,15-02-2019,12:42:00,B,Nashik,Member,Male,Home and lifestyle,17.77,5,88.85,4.4425,93.2925,Credit Card,4.4425,4.761904762,5.4
+136-08-6195,15-02-2019,17:01:00,A,Mumbai,Normal,Female,Home and lifestyle,69.96,8,559.68,27.984,587.664,Credit Card,27.984,4.761904762,6.4
+372-94-8041,15-02-2019,18:03:00,A,Mumbai,Normal,Male,Health and beauty,15.26,6,91.56,4.578,96.138,E-wallet,4.578,4.761904762,9.8
+873-95-4984,15-02-2019,20:21:00,B,Nashik,Member,Female,Health and beauty,76.9,7,538.3,26.915,565.215,Cash,26.915,4.761904762,7.7
+860-79-0874,15-02-2019,14:53:00,C,Pune,Member,Female,Fashion accessories,99.3,10,993,49.65,1042.65,Credit Card,49.65,4.761904762,6.6
+541-89-9860,15-02-2019,12:31:00,C,Pune,Member,Female,Fashion accessories,80.48,3,241.44,12.072,253.512,Cash,12.072,4.761904762,8.1
+710-46-4433,15-02-2019,14:15:00,B,Nashik,Member,Female,Food and beverages,77.4,9,696.6,34.83,731.43,Credit Card,34.83,4.761904762,4.5
+233-34-0817,15-02-2019,11:21:00,C,Pune,Member,Female,Electronic accessories,98.84,1,98.84,4.942,103.782,Cash,4.942,4.761904762,8.4
+246-11-3901,15-02-2019,12:12:00,C,Pune,Normal,Female,Electronic accessories,32.8,10,328,16.4,344.4,Cash,16.4,4.761904762,6.2
+152-68-2907,15-02-2019,13:30:00,A,Mumbai,Normal,Male,Food and beverages,52.2,3,156.6,7.83,164.43,Credit Card,7.83,4.761904762,9.5
+556-41-6224,15-02-2019,17:10:00,C,Pune,Normal,Male,Health and beauty,33.64,8,269.12,13.456,282.576,Credit Card,13.456,4.761904762,9.3
+305-03-2383,15-02-2019,10:36:00,A,Mumbai,Normal,Female,Food and beverages,67.1,3,201.3,10.065,211.365,Cash,10.065,4.761904762,7.5
+400-80-4065,15-02-2019,20:21:00,C,Pune,Member,Male,Health and beauty,68.55,4,274.2,13.71,287.91,Credit Card,13.71,4.761904762,9.2
+497-36-0989,15-02-2019,15:21:00,A,Mumbai,Normal,Male,Fashion accessories,51.94,3,155.82,7.791,163.611,Cash,7.791,4.761904762,7.9
+234-36-2483,15-02-2019,13:51:00,B,Nashik,Normal,Male,Health and beauty,57.59,6,345.54,17.277,362.817,Cash,17.277,4.761904762,5.1
+321-49-7382,15-02-2019,17:38:00,B,Nashik,Member,Male,Sports and travel,88.31,1,88.31,4.4155,92.7255,Credit Card,4.4155,4.761904762,5.2
+431-66-2305,15-02-2019,20:51:00,B,Nashik,Normal,Female,Electronic accessories,88.25,9,794.25,39.7125,833.9625,Credit Card,39.7125,4.761904762,7.6
+241-72-9525,16-02-2019,12:21:00,B,Nashik,Normal,Male,Sports and travel,51.91,10,519.1,25.955,545.055,Cash,25.955,4.761904762,8.2
+587-03-7455,16-02-2019,17:30:00,C,Pune,Member,Female,Fashion accessories,97.79,7,684.53,34.2265,718.7565,E-wallet,34.2265,4.761904762,4.9
+598-06-7312,16-02-2019,15:42:00,B,Nashik,Member,Male,Fashion accessories,91.35,1,91.35,4.5675,95.9175,Cash,4.5675,4.761904762,6.8
+273-84-2164,16-02-2019,15:53:00,C,Pune,Member,Male,Electronic accessories,12.05,5,60.25,3.0125,63.2625,E-wallet,3.0125,4.761904762,5.5
+133-77-3154,16-02-2019,18:04:00,B,Nashik,Member,Male,Fashion accessories,60.18,4,240.72,12.036,252.756,Credit Card,12.036,4.761904762,9.4
+408-66-6712,16-02-2019,14:19:00,C,Pune,Member,Female,Health and beauty,47.71,6,286.26,14.313,300.573,E-wallet,14.313,4.761904762,4.4
+895-03-6665,16-02-2019,10:52:00,B,Nashik,Normal,Female,Fashion accessories,36.51,9,328.59,16.4295,345.0195,Cash,16.4295,4.761904762,4.2
+873-14-6353,16-02-2019,10:33:00,A,Mumbai,Member,Male,Food and beverages,24.82,7,173.74,8.687,182.427,Credit Card,8.687,4.761904762,7.1
+636-48-8204,17-02-2019,11:15:00,A,Mumbai,Normal,Male,Electronic accessories,34.56,5,172.8,8.64,181.44,E-wallet,8.64,4.761904762,9.9
+590-83-4591,17-02-2019,14:40:00,B,Nashik,Member,Male,Electronic accessories,87.45,6,524.7,26.235,550.935,Credit Card,26.235,4.761904762,8.8
+420-11-4919,17-02-2019,19:57:00,C,Pune,Member,Female,Food and beverages,71.39,5,356.95,17.8475,374.7975,Credit Card,17.8475,4.761904762,5.5
+389-25-3394,17-02-2019,18:06:00,C,Pune,Normal,Male,Electronic accessories,11.81,5,59.05,2.9525,62.0025,Cash,2.9525,4.761904762,9.4
+803-17-8013,17-02-2019,17:09:00,A,Mumbai,Member,Female,Home and lifestyle,88.79,8,710.32,35.516,745.836,Cash,35.516,4.761904762,4.1
+634-97-8956,17-02-2019,17:27:00,A,Mumbai,Normal,Male,Food and beverages,32.9,3,98.7,4.935,103.635,Credit Card,4.935,4.761904762,9.1
+612-36-5536,17-02-2019,11:12:00,A,Mumbai,Member,Male,Food and beverages,80.96,8,647.68,32.384,680.064,Credit Card,32.384,4.761904762,7.4
+827-77-7633,17-02-2019,19:41:00,A,Mumbai,Normal,Male,Sports and travel,98.09,9,882.81,44.1405,926.9505,Cash,44.1405,4.761904762,9.3
+123-35-4896,17-02-2019,19:11:00,C,Pune,Normal,Female,Sports and travel,46.66,9,419.94,20.997,440.937,E-wallet,20.997,4.761904762,5.3
+788-21-5741,17-02-2019,13:34:00,A,Mumbai,Normal,Male,Fashion accessories,45.38,3,136.14,6.807,142.947,Credit Card,6.807,4.761904762,7.2
+785-96-0615,17-02-2019,15:28:00,B,Nashik,Member,Female,Electronic accessories,35.74,8,285.92,14.296,300.216,E-wallet,14.296,4.761904762,4.9
+201-63-8275,17-02-2019,16:50:00,C,Pune,Member,Female,Sports and travel,67.99,7,475.93,23.7965,499.7265,E-wallet,23.7965,4.761904762,5.7
+131-70-8179,17-02-2019,16:27:00,A,Mumbai,Member,Female,Health and beauty,92.09,3,276.27,13.8135,290.0835,Cash,13.8135,4.761904762,4.2
+597-78-7908,18-02-2019,19:39:00,C,Pune,Normal,Male,Fashion accessories,90.22,3,270.66,13.533,284.193,Cash,13.533,4.761904762,6.2
+354-39-5160,18-02-2019,15:39:00,A,Mumbai,Member,Female,Home and lifestyle,34.42,6,206.52,10.326,216.846,Cash,10.326,4.761904762,9.8
+278-97-7759,18-02-2019,20:29:00,A,Mumbai,Member,Female,Electronic accessories,62.48,1,62.48,3.124,65.604,Cash,3.124,4.761904762,4.7
+787-15-1757,18-02-2019,16:28:00,C,Pune,Member,Male,Health and beauty,44.07,4,176.28,8.814,185.094,E-wallet,8.814,4.761904762,8.4
+764-44-8999,18-02-2019,14:42:00,B,Nashik,Normal,Female,Health and beauty,14.76,2,29.52,1.476,30.996,E-wallet,1.476,4.761904762,4.3
+652-49-6720,18-02-2019,11:40:00,C,Pune,Member,Female,Electronic accessories,60.95,1,60.95,3.0475,63.9975,E-wallet,3.0475,4.761904762,5.9
+849-09-3807,18-02-2019,13:28:00,A,Mumbai,Member,Female,Fashion accessories,88.34,7,618.38,30.919,649.299,Cash,30.919,4.761904762,6.6
+272-27-9238,19-02-2019,16:23:00,C,Pune,Normal,Female,Food and beverages,41.24,4,164.96,8.248,173.208,Cash,8.248,4.761904762,7.1
+752-23-3760,19-02-2019,19:29:00,B,Nashik,Member,Female,Sports and travel,64.08,7,448.56,22.428,470.988,Credit Card,22.428,4.761904762,7.3
+868-06-0466,19-02-2019,19:38:00,A,Mumbai,Member,Male,Electronic accessories,69.58,9,626.22,31.311,657.531,Credit Card,31.311,4.761904762,7.8
+183-21-3799,19-02-2019,15:14:00,C,Pune,Normal,Female,Electronic accessories,77.63,9,698.67,34.9335,733.6035,E-wallet,34.9335,4.761904762,7.2
+629-42-4133,19-02-2019,19:24:00,C,Pune,Normal,Male,Health and beauty,21.8,8,174.4,8.72,183.12,Cash,8.72,4.761904762,8.3
+886-77-9084,19-02-2019,11:33:00,C,Pune,Normal,Male,Electronic accessories,71.89,8,575.12,28.756,603.876,E-wallet,28.756,4.761904762,5.5
+409-33-9708,19-02-2019,10:12:00,A,Mumbai,Normal,Female,Fashion accessories,98.48,2,196.96,9.848,206.808,E-wallet,9.848,4.761904762,9.2
+449-16-6770,19-02-2019,14:53:00,A,Mumbai,Normal,Male,Health and beauty,50.79,5,253.95,12.6975,266.6475,Credit Card,12.6975,4.761904762,5.3
+384-59-6655,19-02-2019,15:07:00,A,Mumbai,Member,Female,Food and beverages,98.66,9,887.94,44.397,932.337,Cash,44.397,4.761904762,8.4
+692-92-5582,20-02-2019,13:27:00,B,Nashik,Member,Female,Food and beverages,54.84,3,164.52,8.226,172.746,Credit Card,8.226,4.761904762,5.9
+782-95-9291,20-02-2019,15:55:00,A,Mumbai,Member,Male,Food and beverages,92.29,5,461.45,23.0725,484.5225,Credit Card,23.0725,4.761904762,9
+548-46-9322,20-02-2019,15:24:00,B,Nashik,Normal,Male,Food and beverages,39.9,10,399,19.95,418.95,Credit Card,19.95,4.761904762,5.9
+498-41-1961,20-02-2019,18:01:00,B,Nashik,Normal,Male,Health and beauty,66.68,5,333.4,16.67,350.07,Cash,16.67,4.761904762,7.6
+725-56-0833,20-02-2019,16:49:00,A,Mumbai,Normal,Female,Health and beauty,32.32,10,323.2,16.16,339.36,Credit Card,16.16,4.761904762,10
+458-61-0011,20-02-2019,18:43:00,B,Nashik,Normal,Male,Food and beverages,60.3,4,241.2,12.06,253.26,Cash,12.06,4.761904762,5.8
+779-42-2410,20-02-2019,13:06:00,B,Nashik,Member,Male,Food and beverages,57.74,3,173.22,8.661,181.881,E-wallet,8.661,4.761904762,7.7
+546-80-2899,20-02-2019,15:29:00,A,Mumbai,Member,Male,Home and lifestyle,37.69,2,75.38,3.769,79.149,E-wallet,3.769,4.761904762,9.5
+848-95-6252,20-02-2019,13:24:00,C,Pune,Member,Female,Home and lifestyle,86.27,1,86.27,4.3135,90.5835,E-wallet,4.3135,4.761904762,7
+311-13-6971,20-02-2019,15:18:00,B,Nashik,Member,Male,Sports and travel,31.99,10,319.9,15.995,335.895,Credit Card,15.995,4.761904762,9.9
+319-74-2561,21-02-2019,16:55:00,A,Mumbai,Member,Female,Electronic accessories,94.64,3,283.92,14.196,298.116,Cash,14.196,4.761904762,5.5
+279-62-1445,21-02-2019,12:38:00,C,Pune,Member,Female,Fashion accessories,12.54,1,12.54,0.627,13.167,Cash,0.627,4.761904762,8.2
+269-04-5750,21-02-2019,18:31:00,B,Nashik,Member,Male,Fashion accessories,73.82,4,295.28,14.764,310.044,Cash,14.764,4.761904762,6.7
+714-02-3114,21-02-2019,11:39:00,C,Pune,Normal,Female,Sports and travel,98.8,2,197.6,9.88,207.48,Cash,9.88,4.761904762,7.7
+389-70-2397,21-02-2019,10:26:00,C,Pune,Normal,Female,Health and beauty,83.66,5,418.3,20.915,439.215,Cash,20.915,4.761904762,7.2
+503-21-4385,21-02-2019,12:40:00,B,Nashik,Member,Male,Health and beauty,39.91,3,119.73,5.9865,125.7165,E-wallet,5.9865,4.761904762,9.3
+488-25-4221,22-02-2019,10:36:00,C,Pune,Member,Female,Food and beverages,30.41,1,30.41,1.5205,31.9305,Credit Card,1.5205,4.761904762,8.4
+743-88-1662,22-02-2019,18:17:00,C,Pune,Normal,Male,Sports and travel,95.49,7,668.43,33.4215,701.8515,E-wallet,33.4215,4.761904762,8.7
+831-64-0259,22-02-2019,10:43:00,B,Nashik,Normal,Female,Fashion accessories,39.75,5,198.75,9.9375,208.6875,E-wallet,9.9375,4.761904762,9.6
+837-55-7229,22-02-2019,18:19:00,B,Nashik,Normal,Female,Fashion accessories,47.44,1,47.44,2.372,49.812,Credit Card,2.372,4.761904762,6.8
+582-52-8065,22-02-2019,10:49:00,B,Nashik,Normal,Female,Fashion accessories,54.31,9,488.79,24.4395,513.2295,Cash,24.4395,4.761904762,8.9
+807-14-7833,22-02-2019,12:30:00,A,Mumbai,Member,Female,Electronic accessories,17.42,10,174.2,8.71,182.91,E-wallet,8.71,4.761904762,7
+864-24-7918,22-02-2019,15:15:00,A,Mumbai,Member,Female,Sports and travel,24.49,10,244.9,12.245,257.145,Cash,12.245,4.761904762,8.1
+777-67-2495,22-02-2019,11:26:00,B,Nashik,Normal,Male,Home and lifestyle,68.97,3,206.91,10.3455,217.2555,E-wallet,10.3455,4.761904762,8.7
+838-02-1821,22-02-2019,12:10:00,C,Pune,Member,Female,Home and lifestyle,12.73,2,25.46,1.273,26.733,Credit Card,1.273,4.761904762,5.2
+690-01-6631,22-02-2019,18:35:00,B,Nashik,Normal,Male,Fashion accessories,17.49,10,174.9,8.745,183.645,E-wallet,8.745,4.761904762,6.6
+347-56-2442,22-02-2019,15:33:00,A,Mumbai,Normal,Male,Home and lifestyle,65.82,1,65.82,3.291,69.111,Cash,3.291,4.761904762,4.1
+787-56-0757,23-02-2019,18:45:00,C,Pune,Member,Female,Food and beverages,80.36,4,321.44,16.072,337.512,Credit Card,16.072,4.761904762,8.3
+396-90-2219,23-02-2019,12:29:00,B,Nashik,Normal,Female,Electronic accessories,14.96,8,119.68,5.984,125.664,Cash,5.984,4.761904762,8.6
+729-46-7422,23-02-2019,16:52:00,C,Pune,Normal,Male,Food and beverages,35.89,1,35.89,1.7945,37.6845,Credit Card,1.7945,4.761904762,7.9
+503-07-0930,23-02-2019,19:49:00,C,Pune,Member,Male,Sports and travel,58.39,7,408.73,20.4365,429.1665,Credit Card,20.4365,4.761904762,8.2
+695-09-5146,23-02-2019,20:00:00,B,Nashik,Member,Female,Food and beverages,98.79,3,296.37,14.8185,311.1885,E-wallet,14.8185,4.761904762,6.4
+190-14-3147,23-02-2019,20:43:00,B,Nashik,Normal,Female,Health and beauty,17.97,4,71.88,3.594,75.474,E-wallet,3.594,4.761904762,6.4
+274-05-5470,23-02-2019,18:30:00,A,Mumbai,Member,Female,Food and beverages,73.47,4,293.88,14.694,308.574,Cash,14.694,4.761904762,6
+831-81-6575,23-02-2019,11:12:00,B,Nashik,Member,Female,Electronic accessories,75.59,9,680.31,34.0155,714.3255,Cash,34.0155,4.761904762,8
+315-22-5665,24-02-2019,11:38:00,C,Pune,Normal,Female,Home and lifestyle,73.56,10,735.6,36.78,772.38,E-wallet,36.78,4.761904762,8
+803-83-5989,24-02-2019,10:55:00,C,Pune,Normal,Male,Home and lifestyle,55.73,6,334.38,16.719,351.099,E-wallet,16.719,4.761904762,7
+692-27-8933,24-02-2019,13:02:00,B,Nashik,Normal,Female,Sports and travel,57.95,6,347.7,17.385,365.085,Cash,17.385,4.761904762,5.2
+740-11-5257,24-02-2019,16:44:00,C,Pune,Normal,Male,Electronic accessories,24.74,10,247.4,12.37,259.77,Cash,12.37,4.761904762,7.1
+242-11-3142,24-02-2019,19:57:00,B,Nashik,Member,Male,Fashion accessories,83.77,2,167.54,8.377,175.917,Cash,8.377,4.761904762,4.6
+516-77-6464,24-02-2019,13:08:00,C,Pune,Member,Female,Health and beauty,10.16,5,50.8,2.54,53.34,E-wallet,2.54,4.761904762,4.1
+380-60-5336,24-02-2019,18:06:00,A,Mumbai,Normal,Female,Electronic accessories,40.26,10,402.6,20.13,422.73,Credit Card,20.13,4.761904762,5
+186-43-8965,24-02-2019,10:10:00,A,Mumbai,Member,Female,Home and lifestyle,47.68,2,95.36,4.768,100.128,Credit Card,4.768,4.761904762,4.1
+365-16-4334,24-02-2019,14:26:00,B,Nashik,Normal,Female,Food and beverages,26.43,8,211.44,10.572,222.012,E-wallet,10.572,4.761904762,8.9
+355-53-5943,25-02-2019,14:36:00,A,Mumbai,Member,Female,Electronic accessories,68.84,6,413.04,20.652,433.692,E-wallet,20.652,4.761904762,5.8
+300-71-4605,25-02-2019,11:24:00,C,Pune,Member,Male,Electronic accessories,86.04,5,430.2,21.51,451.71,E-wallet,21.51,4.761904762,4.8
+871-79-8483,25-02-2019,19:39:00,B,Nashik,Normal,Male,Fashion accessories,94.13,5,470.65,23.5325,494.1825,Credit Card,23.5325,4.761904762,4.8
+275-28-0149,25-02-2019,16:21:00,A,Mumbai,Normal,Male,Sports and travel,63.69,1,63.69,3.1845,66.8745,Cash,3.1845,4.761904762,6
+505-02-0892,25-02-2019,14:12:00,B,Nashik,Member,Male,Health and beauty,42.57,8,340.56,17.028,357.588,E-wallet,17.028,4.761904762,5.6
+735-06-4124,25-02-2019,15:31:00,C,Pune,Normal,Male,Food and beverages,48.61,1,48.61,2.4305,51.0405,Cash,2.4305,4.761904762,4.4
+502-05-1910,25-02-2019,20:35:00,A,Mumbai,Normal,Male,Health and beauty,65.18,3,195.54,9.777,205.317,Credit Card,9.777,4.761904762,6.3
+511-54-3087,25-02-2019,16:36:00,B,Nashik,Normal,Male,Sports and travel,88.45,1,88.45,4.4225,92.8725,Credit Card,4.4225,4.761904762,9.5
+719-89-8991,25-02-2019,16:03:00,A,Mumbai,Member,Female,Sports and travel,91.41,5,457.05,22.8525,479.9025,E-wallet,22.8525,4.761904762,7.1
+308-81-0538,25-02-2019,17:16:00,A,Mumbai,Normal,Female,Fashion accessories,73.05,4,292.2,14.61,306.81,Credit Card,14.61,4.761904762,4.9
+834-83-1826,25-02-2019,17:16:00,B,Nashik,Member,Female,Home and lifestyle,82.04,5,410.2,20.51,430.71,Credit Card,20.51,4.761904762,7.6
+636-17-0325,25-02-2019,18:37:00,B,Nashik,Normal,Male,Health and beauty,62.57,4,250.28,12.514,262.794,Cash,12.514,4.761904762,9.5
+866-70-2814,25-02-2019,11:58:00,B,Nashik,Normal,Female,Electronic accessories,52.79,10,527.9,26.395,554.295,E-wallet,26.395,4.761904762,10
+608-05-3804,25-02-2019,20:19:00,B,Nashik,Member,Male,Electronic accessories,39.75,1,39.75,1.9875,41.7375,Cash,1.9875,4.761904762,6.1
+459-45-2396,25-02-2019,18:45:00,A,Mumbai,Member,Female,Food and beverages,99.6,3,298.8,14.94,313.74,Cash,14.94,4.761904762,5.8
+574-80-1489,25-02-2019,13:22:00,B,Nashik,Member,Female,Food and beverages,62.85,4,251.4,12.57,263.97,E-wallet,12.57,4.761904762,8.7
+466-61-5506,26-02-2019,10:52:00,B,Nashik,Member,Female,Electronic accessories,90.7,6,544.2,27.21,571.41,Cash,27.21,4.761904762,5.3
+154-74-7179,26-02-2019,19:24:00,B,Nashik,Normal,Male,Sports and travel,54.45,1,54.45,2.7225,57.1725,E-wallet,2.7225,4.761904762,7.9
+477-24-6490,26-02-2019,16:52:00,B,Nashik,Normal,Female,Health and beauty,99.71,6,598.26,29.913,628.173,E-wallet,29.913,4.761904762,7.9
+649-11-3678,26-02-2019,20:26:00,C,Pune,Normal,Female,Food and beverages,22.93,9,206.37,10.3185,216.6885,Cash,10.3185,4.761904762,5.5
+437-53-3084,26-02-2019,11:48:00,B,Nashik,Normal,Male,Fashion accessories,99.89,2,199.78,9.989,209.769,E-wallet,9.989,4.761904762,7.1
+491-38-3499,26-02-2019,17:46:00,A,Mumbai,Member,Male,Fashion accessories,55.45,1,55.45,2.7725,58.2225,Credit Card,2.7725,4.761904762,4.9
+707-32-7409,26-02-2019,11:58:00,B,Nashik,Member,Female,Sports and travel,95.54,4,382.16,19.108,401.268,E-wallet,19.108,4.761904762,4.5
+702-72-0487,26-02-2019,12:28:00,A,Mumbai,Normal,Female,Electronic accessories,46.61,2,93.22,4.661,97.881,Credit Card,4.661,4.761904762,6.6
+518-71-6847,26-02-2019,15:10:00,B,Nashik,Member,Male,Food and beverages,26.6,6,159.6,7.98,167.58,E-wallet,7.98,4.761904762,4.9
+370-41-7321,27-02-2019,17:24:00,B,Nashik,Member,Male,Health and beauty,56.69,9,510.21,25.5105,535.7205,Credit Card,25.5105,4.761904762,8.4
+318-68-5053,27-02-2019,17:55:00,B,Nashik,Normal,Female,Health and beauty,76.99,6,461.94,23.097,485.037,Cash,23.097,4.761904762,6.1
+135-84-8019,27-02-2019,16:10:00,A,Mumbai,Normal,Female,Fashion accessories,77.93,9,701.37,35.0685,736.4385,E-wallet,35.0685,4.761904762,7.6
+400-45-1220,27-02-2019,11:06:00,B,Nashik,Normal,Female,Health and beauty,13.5,10,135,6.75,141.75,Credit Card,6.75,4.761904762,4.8
+605-72-4132,27-02-2019,15:12:00,C,Pune,Normal,Female,Food and beverages,94.47,8,755.76,37.788,793.548,Cash,37.788,4.761904762,9.1
+741-73-3559,27-02-2019,17:27:00,B,Nashik,Normal,Male,Sports and travel,67.27,5,336.35,16.8175,353.1675,Cash,16.8175,4.761904762,6.9
+665-63-9737,27-02-2019,17:36:00,B,Nashik,Normal,Male,Fashion accessories,52.42,3,157.26,7.863,165.123,E-wallet,7.863,4.761904762,7.5
+250-81-7186,27-02-2019,10:23:00,C,Pune,Normal,Female,Electronic accessories,99.69,1,99.69,4.9845,104.6745,Credit Card,4.9845,4.761904762,8
+105-10-6182,27-02-2019,12:22:00,A,Mumbai,Member,Male,Fashion accessories,21.48,2,42.96,2.148,45.108,E-wallet,2.148,4.761904762,6.6
+191-29-0321,27-02-2019,18:57:00,B,Nashik,Member,Female,Fashion accessories,19.77,10,197.7,9.885,207.585,Credit Card,9.885,4.761904762,5
+250-17-5703,27-02-2019,18:24:00,A,Mumbai,Member,Male,Food and beverages,18.85,10,188.5,9.425,197.925,E-wallet,9.425,4.761904762,5.6
+759-98-4285,27-02-2019,19:01:00,C,Pune,Member,Female,Health and beauty,85.87,7,601.09,30.0545,631.1445,Credit Card,30.0545,4.761904762,8
+263-12-5321,27-02-2019,12:52:00,A,Mumbai,Member,Male,Electronic accessories,92.6,7,648.2,32.41,680.61,Credit Card,32.41,4.761904762,9.3
+243-55-8457,27-02-2019,11:40:00,A,Mumbai,Normal,Female,Food and beverages,74.44,10,744.4,37.22,781.62,E-wallet,37.22,4.761904762,5.1
+399-46-5918,28-02-2019,19:01:00,C,Pune,Normal,Female,Electronic accessories,85.98,8,687.84,34.392,722.232,Cash,34.392,4.761904762,8.2
+142-72-4741,28-02-2019,18:37:00,C,Pune,Member,Male,Fashion accessories,93.2,2,186.4,9.32,195.72,Credit Card,9.32,4.761904762,6
+709-58-4068,28-02-2019,14:42:00,B,Nashik,Normal,Female,Fashion accessories,41.09,10,410.9,20.545,431.445,Cash,20.545,4.761904762,7.3
+786-94-2700,28-02-2019,20:18:00,A,Mumbai,Member,Male,Food and beverages,80.62,6,483.72,24.186,507.906,Cash,24.186,4.761904762,9.1
+635-28-5728,28-02-2019,19:33:00,A,Mumbai,Normal,Male,Health and beauty,56,3,168,8.4,176.4,E-wallet,8.4,4.761904762,4.8
+291-59-1384,28-02-2019,17:38:00,B,Nashik,Normal,Male,Electronic accessories,60.3,1,60.3,3.015,63.315,Cash,3.015,4.761904762,6
+877-22-3308,13-03-2019,16:40:00,A,Mumbai,Member,Male,Health and beauty,15.87,10,158.7,7.935,166.635,Cash,7.935,4.761904762,5.8
+336-78-2147,13-03-2019,19:52:00,C,Pune,Member,Male,Home and lifestyle,63.91,8,511.28,25.564,536.844,Credit Card,25.564,4.761904762,4.6
+101-17-6199,13-03-2019,19:44:00,A,Mumbai,Normal,Male,Food and beverages,45.79,7,320.53,16.0265,336.5565,Credit Card,16.0265,4.761904762,7
+655-85-5130,13-03-2019,19:22:00,B,Nashik,Member,Female,Fashion accessories,38.3,4,153.2,7.66,160.86,Cash,7.66,4.761904762,5.7
+585-03-5943,13-03-2019,11:46:00,B,Nashik,Normal,Male,Health and beauty,18.11,10,181.1,9.055,190.155,E-wallet,9.055,4.761904762,5.9
+316-01-3952,13-03-2019,14:16:00,A,Mumbai,Normal,Female,Food and beverages,54.27,5,271.35,13.5675,284.9175,E-wallet,13.5675,4.761904762,4.6
+686-41-0932,13-03-2019,19:48:00,B,Nashik,Normal,Female,Fashion accessories,34.7,2,69.4,3.47,72.87,E-wallet,3.47,4.761904762,8.2
+173-57-2300,13-03-2019,12:51:00,C,Pune,Member,Male,Sports and travel,72.88,2,145.76,7.288,153.048,Cash,7.288,4.761904762,6.1
+584-66-4073,13-03-2019,15:45:00,C,Pune,Normal,Male,Fashion accessories,56.5,1,56.5,2.825,59.325,E-wallet,2.825,4.761904762,9.6
+137-74-8729,13-03-2019,12:47:00,C,Pune,Normal,Female,Fashion accessories,12.19,8,97.52,4.876,102.396,E-wallet,4.876,4.761904762,6.8
+808-65-0703,14-03-2019,17:22:00,C,Pune,Normal,Male,Home and lifestyle,35.47,4,141.88,7.094,148.974,Credit Card,7.094,4.761904762,6.9
+558-80-4082,14-03-2019,17:20:00,C,Pune,Normal,Male,Electronic accessories,27.85,7,194.95,9.7475,204.6975,E-wallet,9.7475,4.761904762,6
+442-48-3607,14-03-2019,11:21:00,A,Mumbai,Member,Male,Food and beverages,23.48,2,46.96,2.348,49.308,Credit Card,2.348,4.761904762,7.9
+115-99-4379,14-03-2019,19:02:00,B,Nashik,Member,Female,Fashion accessories,54.73,7,383.11,19.1555,402.2655,Credit Card,19.1555,4.761904762,8.5
+122-61-9553,14-03-2019,19:33:00,C,Pune,Normal,Female,Electronic accessories,51.32,9,461.88,23.094,484.974,Cash,23.094,4.761904762,5.6
+730-70-9830,14-03-2019,17:54:00,C,Pune,Normal,Female,Home and lifestyle,70.11,6,420.66,21.033,441.693,E-wallet,21.033,4.761904762,5.2
+189-52-0236,14-03-2019,12:07:00,A,Mumbai,Normal,Male,Electronic accessories,99.55,7,696.85,34.8425,731.6925,Cash,34.8425,4.761904762,7.6
+174-75-0888,14-03-2019,12:32:00,B,Nashik,Normal,Male,Electronic accessories,21.58,9,194.22,9.711,203.931,Cash,9.711,4.761904762,7.3
+379-17-6588,14-03-2019,11:07:00,C,Pune,Normal,Male,Fashion accessories,59.61,10,596.1,29.805,625.905,Cash,29.805,4.761904762,5.3
+373-09-4567,14-03-2019,20:35:00,C,Pune,Normal,Male,Food and beverages,77.56,10,775.6,38.78,814.38,E-wallet,38.78,4.761904762,6.9
+840-19-2096,14-03-2019,18:10:00,C,Pune,Member,Male,Electronic accessories,87.91,5,439.55,21.9775,461.5275,E-wallet,21.9775,4.761904762,4.4
+628-90-8624,14-03-2019,14:41:00,B,Nashik,Member,Male,Health and beauty,82.58,10,825.8,41.29,867.09,Cash,41.29,4.761904762,5
+169-52-4504,14-03-2019,14:13:00,A,Mumbai,Normal,Female,Electronic accessories,15.69,3,47.07,2.3535,49.4235,Credit Card,2.3535,4.761904762,5.8
+210-30-7976,14-03-2019,11:16:00,B,Nashik,Member,Female,Fashion accessories,22.32,4,89.28,4.464,93.744,E-wallet,4.464,4.761904762,4.1
+499-27-7781,14-03-2019,16:45:00,B,Nashik,Normal,Female,Food and beverages,53.21,8,425.68,21.284,446.964,E-wallet,21.284,4.761904762,5
+722-13-2115,14-03-2019,15:36:00,C,Pune,Member,Male,Sports and travel,42.85,1,42.85,2.1425,44.9925,Credit Card,2.1425,4.761904762,9.3
+457-12-0244,14-03-2019,13:49:00,C,Pune,Member,Female,Sports and travel,35.22,6,211.32,10.566,221.886,E-wallet,10.566,4.761904762,6.5
+139-32-4183,14-03-2019,14:19:00,A,Mumbai,Member,Female,Sports and travel,97.48,9,877.32,43.866,921.186,E-wallet,43.866,4.761904762,7.4
+273-16-6619,15-03-2019,12:20:00,B,Nashik,Normal,Male,Home and lifestyle,33.2,2,66.4,3.32,69.72,Credit Card,3.32,4.761904762,4.4
+848-62-7243,15-03-2019,15:36:00,A,Mumbai,Normal,Male,Health and beauty,24.89,9,224.01,11.2005,235.2105,Cash,11.2005,4.761904762,7.4
+595-11-5460,15-03-2019,10:12:00,A,Mumbai,Normal,Male,Health and beauty,96.58,2,193.16,9.658,202.818,Credit Card,9.658,4.761904762,5.1
+542-41-0513,15-03-2019,11:57:00,B,Nashik,Member,Female,Electronic accessories,57.49,4,229.96,11.498,241.458,Cash,11.498,4.761904762,6.6
+760-54-1821,15-03-2019,10:26:00,B,Nashik,Normal,Male,Home and lifestyle,13.59,9,122.31,6.1155,128.4255,Cash,6.1155,4.761904762,5.8
+510-09-5628,15-03-2019,18:20:00,A,Mumbai,Member,Female,Fashion accessories,19.66,10,196.6,9.83,206.43,Credit Card,9.83,4.761904762,7.2
+585-11-6748,15-03-2019,13:05:00,B,Nashik,Member,Male,Sports and travel,96.8,3,290.4,14.52,304.92,Cash,14.52,4.761904762,5.3
+605-83-1050,15-03-2019,16:26:00,B,Nashik,Normal,Male,Fashion accessories,27.18,2,54.36,2.718,57.078,E-wallet,2.718,4.761904762,4.3
+359-94-5395,15-03-2019,10:50:00,B,Nashik,Normal,Male,Health and beauty,92.78,1,92.78,4.639,97.419,Credit Card,4.639,4.761904762,9.8
+565-91-4567,15-03-2019,14:38:00,B,Nashik,Normal,Male,Health and beauty,10.75,8,86,4.3,90.3,E-wallet,4.3,4.761904762,6.2
+361-59-0574,15-03-2019,14:48:00,B,Nashik,Member,Male,Sports and travel,90.53,8,724.24,36.212,760.452,Credit Card,36.212,4.761904762,6.5
+154-87-7367,15-03-2019,14:04:00,C,Pune,Normal,Male,Home and lifestyle,65.26,8,522.08,26.104,548.184,E-wallet,26.104,4.761904762,6.3
+617-15-4209,16-03-2019,19:47:00,C,Pune,Member,Male,Health and beauty,15.37,2,30.74,1.537,32.277,Cash,1.537,4.761904762,7.2
+575-30-8091,16-03-2019,19:25:00,A,Mumbai,Normal,Male,Sports and travel,72.5,8,580,29,609,E-wallet,29,4.761904762,9.2
+286-43-6208,16-03-2019,19:08:00,C,Pune,Normal,Female,Food and beverages,87.8,9,790.2,39.51,829.71,Cash,39.51,4.761904762,9.2
+290-68-2984,16-03-2019,11:22:00,A,Mumbai,Normal,Male,Home and lifestyle,23.75,4,95,4.75,99.75,Cash,4.75,4.761904762,5.2
+578-80-7669,16-03-2019,16:58:00,B,Nashik,Normal,Male,Sports and travel,74.97,1,74.97,3.7485,78.7185,Cash,3.7485,4.761904762,5.6
+727-17-0390,16-03-2019,12:43:00,A,Mumbai,Normal,Female,Food and beverages,63.61,5,318.05,15.9025,333.9525,E-wallet,15.9025,4.761904762,4.8
+701-69-8742,16-03-2019,10:11:00,B,Nashik,Normal,Male,Sports and travel,34.37,10,343.7,17.185,360.885,E-wallet,17.185,4.761904762,6.7
+210-74-9613,16-03-2019,15:33:00,C,Pune,Normal,Male,Fashion accessories,97.26,4,389.04,19.452,408.492,E-wallet,19.452,4.761904762,6.8
+711-31-1234,16-03-2019,18:51:00,B,Nashik,Normal,Female,Electronic accessories,95.64,4,382.56,19.128,401.688,Cash,19.128,4.761904762,7.9
+662-47-5456,17-03-2019,19:06:00,C,Pune,Member,Male,Fashion accessories,35.19,10,351.9,17.595,369.495,Credit Card,17.595,4.761904762,8.4
+320-32-8842,17-03-2019,18:58:00,C,Pune,Member,Female,Food and beverages,22.62,1,22.62,1.131,23.751,Cash,1.131,4.761904762,6.4
+642-30-6693,17-03-2019,13:54:00,B,Nashik,Normal,Female,Sports and travel,54.51,6,327.06,16.353,343.413,E-wallet,16.353,4.761904762,7.8
+220-68-6701,17-03-2019,16:36:00,A,Mumbai,Normal,Female,Home and lifestyle,77.47,4,309.88,15.494,325.374,Cash,15.494,4.761904762,4.2
+152-03-4217,17-03-2019,11:55:00,B,Nashik,Normal,Female,Home and lifestyle,11.28,9,101.52,5.076,106.596,Credit Card,5.076,4.761904762,4.3
+880-46-5796,17-03-2019,19:53:00,A,Mumbai,Member,Male,Sports and travel,76.92,10,769.2,38.46,807.66,E-wallet,38.46,4.761904762,5.6
+263-87-5680,18-03-2019,17:38:00,C,Pune,Member,Female,Home and lifestyle,28.53,10,285.3,14.265,299.565,E-wallet,14.265,4.761904762,7.8
+439-54-7422,18-03-2019,17:15:00,A,Mumbai,Normal,Female,Electronic accessories,51.19,4,204.76,10.238,214.998,Credit Card,10.238,4.761904762,4.7
+485-30-8700,18-03-2019,16:10:00,A,Mumbai,Normal,Female,Sports and travel,33.26,5,166.3,8.315,174.615,Credit Card,8.315,4.761904762,4.2
+413-20-6708,18-03-2019,15:52:00,C,Pune,Member,Female,Fashion accessories,51.47,1,51.47,2.5735,54.0435,E-wallet,2.5735,4.761904762,8.5
+420-04-7590,18-03-2019,11:29:00,B,Nashik,Normal,Male,Home and lifestyle,99.7,3,299.1,14.955,314.055,E-wallet,14.955,4.761904762,4.7
+776-68-1096,18-03-2019,13:45:00,B,Nashik,Normal,Male,Home and lifestyle,44.12,3,132.36,6.618,138.978,Credit Card,6.618,4.761904762,7.9
+256-58-3609,18-03-2019,15:29:00,C,Pune,Member,Male,Fashion accessories,91.98,1,91.98,4.599,96.579,Cash,4.599,4.761904762,9.8
+574-22-5561,19-03-2019,17:08:00,C,Pune,Member,Female,Fashion accessories,82.63,10,826.3,41.315,867.615,E-wallet,41.315,4.761904762,7.9
+716-39-1409,19-03-2019,18:19:00,B,Nashik,Normal,Male,Health and beauty,30.35,7,212.45,10.6225,223.0725,Cash,10.6225,4.761904762,8
+568-90-5112,19-03-2019,12:46:00,C,Pune,Normal,Male,Health and beauty,66.14,4,264.56,13.228,277.788,Credit Card,13.228,4.761904762,5.6
+831-07-6050,19-03-2019,11:30:00,A,Mumbai,Normal,Male,Electronic accessories,32.71,5,163.55,8.1775,171.7275,Credit Card,8.1775,4.761904762,9.9
+850-41-9669,19-03-2019,13:25:00,A,Mumbai,Normal,Female,Electronic accessories,75.06,9,675.54,33.777,709.317,E-wallet,33.777,4.761904762,6.2
+898-04-2717,19-03-2019,15:49:00,A,Mumbai,Normal,Male,Fashion accessories,76.4,9,687.6,34.38,721.98,E-wallet,34.38,4.761904762,7.5
+462-78-5240,19-03-2019,14:35:00,C,Pune,Normal,Female,Electronic accessories,26.61,2,53.22,2.661,55.881,Cash,2.661,4.761904762,4.2
+301-81-8610,19-03-2019,19:42:00,B,Nashik,Member,Male,Fashion accessories,25.42,8,203.36,10.168,213.528,Credit Card,10.168,4.761904762,6.7
+751-69-0068,19-03-2019,19:09:00,C,Pune,Normal,Male,Sports and travel,99.24,9,893.16,44.658,937.818,E-wallet,44.658,4.761904762,9
+701-23-5550,19-03-2019,13:40:00,B,Nashik,Member,Male,Home and lifestyle,38.81,4,155.24,7.762,163.002,E-wallet,7.762,4.761904762,4.9
+318-81-2368,19-03-2019,12:16:00,C,Pune,Normal,Female,Electronic accessories,46.2,1,46.2,2.31,48.51,Cash,2.31,4.761904762,6.3
+155-45-3814,19-03-2019,15:29:00,C,Pune,Member,Female,Electronic accessories,88.55,8,708.4,35.42,743.82,E-wallet,35.42,4.761904762,4.7
+728-88-7867,19-03-2019,15:52:00,C,Pune,Member,Female,Home and lifestyle,75.53,4,302.12,15.106,317.226,E-wallet,15.106,4.761904762,8.3
+737-88-5876,19-03-2019,11:52:00,A,Mumbai,Member,Male,Home and lifestyle,23.29,4,93.16,4.658,97.818,Credit Card,4.658,4.761904762,5.9
+548-48-3156,19-03-2019,13:37:00,A,Mumbai,Member,Female,Food and beverages,83.34,2,166.68,8.334,175.014,Cash,8.334,4.761904762,7.6
+593-08-5916,19-03-2019,15:23:00,A,Mumbai,Normal,Female,Fashion accessories,15.5,1,15.5,0.775,16.275,Credit Card,0.775,4.761904762,7.4
+142-63-6033,20-03-2019,19:17:00,B,Nashik,Normal,Male,Home and lifestyle,92.36,5,461.8,23.09,484.89,E-wallet,23.09,4.761904762,4.9
+213-72-6612,20-03-2019,15:56:00,A,Mumbai,Normal,Male,Food and beverages,43.25,2,86.5,4.325,90.825,Cash,4.325,4.761904762,6.2
+537-72-0426,20-03-2019,16:28:00,C,Pune,Member,Male,Fashion accessories,70.99,10,709.9,35.495,745.395,Cash,35.495,4.761904762,5.7
+828-61-5674,20-03-2019,19:57:00,A,Mumbai,Member,Male,Sports and travel,44.02,10,440.2,22.01,462.21,Credit Card,22.01,4.761904762,9.6
+650-98-6268,20-03-2019,13:53:00,B,Nashik,Member,Female,Food and beverages,20.87,3,62.61,3.1305,65.7405,Credit Card,3.1305,4.761904762,8
+632-32-4574,20-03-2019,14:14:00,B,Nashik,Normal,Male,Sports and travel,75.92,8,607.36,30.368,637.728,Cash,30.368,4.761904762,5.5
+451-28-5717,20-03-2019,11:23:00,C,Pune,Member,Female,Home and lifestyle,83.17,6,499.02,24.951,523.971,Cash,24.951,4.761904762,7.3
+760-90-2357,20-03-2019,15:08:00,A,Mumbai,Member,Male,Electronic accessories,74.51,6,447.06,22.353,469.413,E-wallet,22.353,4.761904762,5
+514-37-2845,20-03-2019,13:02:00,B,Nashik,Normal,Male,Fashion accessories,99.25,2,198.5,9.925,208.425,Cash,9.925,4.761904762,9
+509-29-3912,20-03-2019,12:24:00,A,Mumbai,Member,Female,Sports and travel,38.72,9,348.48,17.424,365.904,E-wallet,17.424,4.761904762,4.2
+436-54-4512,20-03-2019,19:44:00,A,Mumbai,Member,Female,Food and beverages,91.61,1,91.61,4.5805,96.1905,Cash,4.5805,4.761904762,9.8
+182-88-2763,20-03-2019,19:28:00,B,Nashik,Member,Male,Food and beverages,79.91,3,239.73,11.9865,251.7165,Credit Card,11.9865,4.761904762,5
+574-31-8277,20-03-2019,19:55:00,B,Nashik,Member,Male,Fashion accessories,33.63,1,33.63,1.6815,35.3115,Cash,1.6815,4.761904762,5.6
+805-86-0265,20-03-2019,11:32:00,A,Mumbai,Normal,Male,Home and lifestyle,93.96,9,845.64,42.282,887.922,Cash,42.282,4.761904762,9.8
+102-06-2002,20-03-2019,17:52:00,C,Pune,Member,Male,Sports and travel,25.25,5,126.25,6.3125,132.5625,Cash,6.3125,4.761904762,6.1
+827-26-2100,21-03-2019,16:21:00,A,Mumbai,Member,Male,Home and lifestyle,33.84,9,304.56,15.228,319.788,E-wallet,15.228,4.761904762,8.8
+512-98-1403,21-03-2019,10:40:00,A,Mumbai,Member,Female,Electronic accessories,26.48,3,79.44,3.972,83.412,E-wallet,3.972,4.761904762,4.7
+527-09-6272,21-03-2019,10:17:00,A,Mumbai,Member,Female,Electronic accessories,28.45,5,142.25,7.1125,149.3625,Credit Card,7.1125,4.761904762,9.1
+438-01-4015,21-03-2019,15:25:00,B,Nashik,Member,Female,Sports and travel,49.49,4,197.96,9.898,207.858,E-wallet,9.898,4.761904762,6.6
+448-61-3783,21-03-2019,16:08:00,A,Mumbai,Normal,Female,Electronic accessories,90.02,8,720.16,36.008,756.168,Credit Card,36.008,4.761904762,4.5
+500-02-2261,21-03-2019,17:04:00,C,Pune,Normal,Female,Food and beverages,57.29,6,343.74,17.187,360.927,E-wallet,17.187,4.761904762,5.9
+227-03-5010,22-03-2019,19:20:00,A,Mumbai,Member,Female,Home and lifestyle,52.59,8,420.72,21.036,441.756,Credit Card,21.036,4.761904762,8.5
+616-24-2851,22-03-2019,14:42:00,B,Nashik,Member,Female,Fashion accessories,17.87,4,71.48,3.574,75.054,E-wallet,3.574,4.761904762,6.5
+630-74-5166,22-03-2019,20:19:00,A,Mumbai,Normal,Male,Sports and travel,62.13,6,372.78,18.639,391.419,Cash,18.639,4.761904762,7.4
+802-43-8934,22-03-2019,15:05:00,A,Mumbai,Normal,Male,Home and lifestyle,18.28,1,18.28,0.914,19.194,Credit Card,0.914,4.761904762,8.3
+472-15-9636,22-03-2019,19:36:00,A,Mumbai,Normal,Male,Home and lifestyle,50.93,8,407.44,20.372,427.812,E-wallet,20.372,4.761904762,9.2
+394-30-3170,22-03-2019,19:35:00,B,Nashik,Member,Female,Sports and travel,88.43,8,707.44,35.372,742.812,Credit Card,35.372,4.761904762,4.3
+554-53-3790,22-03-2019,18:33:00,B,Nashik,Normal,Male,Sports and travel,37.02,6,222.12,11.106,233.226,Cash,11.106,4.761904762,4.5
+550-84-8664,22-03-2019,14:33:00,A,Mumbai,Normal,Male,Sports and travel,85.91,5,429.55,21.4775,451.0275,Credit Card,21.4775,4.761904762,8.6
+674-56-6360,22-03-2019,14:00:00,A,Mumbai,Normal,Male,Electronic accessories,95.15,1,95.15,4.7575,99.9075,Cash,4.7575,4.761904762,6
+886-18-2897,22-03-2019,19:06:00,A,Mumbai,Normal,Female,Food and beverages,56.56,5,282.8,14.14,296.94,Credit Card,14.14,4.761904762,4.5
+333-73-7901,23-03-2019,13:24:00,C,Pune,Normal,Female,Health and beauty,54.92,8,439.36,21.968,461.328,E-wallet,21.968,4.761904762,7.6
+865-92-6136,23-03-2019,10:16:00,A,Mumbai,Normal,Male,Food and beverages,52.75,3,158.25,7.9125,166.1625,E-wallet,7.9125,4.761904762,9.3
+608-96-3517,23-03-2019,19:20:00,B,Nashik,Member,Female,Fashion accessories,91.54,4,366.16,18.308,384.468,Credit Card,18.308,4.761904762,4.8
+407-63-8975,23-03-2019,19:16:00,A,Mumbai,Normal,Male,Food and beverages,73.88,6,443.28,22.164,465.444,E-wallet,22.164,4.761904762,4.4
+851-28-6367,23-03-2019,10:55:00,A,Mumbai,Member,Male,Sports and travel,15.5,10,155,7.75,162.75,E-wallet,7.75,4.761904762,8
+856-22-8149,23-03-2019,10:13:00,A,Mumbai,Normal,Female,Home and lifestyle,25.29,1,25.29,1.2645,26.5545,E-wallet,1.2645,4.761904762,6.1
+795-49-7276,23-03-2019,18:59:00,A,Mumbai,Normal,Male,Fashion accessories,37.15,4,148.6,7.43,156.03,E-wallet,7.43,4.761904762,8.3
+386-27-7606,23-03-2019,15:59:00,C,Pune,Member,Female,Home and lifestyle,81.2,7,568.4,28.42,596.82,Credit Card,28.42,4.761904762,8.1
+733-29-1227,23-03-2019,12:41:00,C,Pune,Normal,Male,Home and lifestyle,55.61,7,389.27,19.4635,408.7335,Cash,19.4635,4.761904762,8.5
+474-33-8305,23-03-2019,13:23:00,C,Pune,Member,Male,Fashion accessories,67.39,7,471.73,23.5865,495.3165,E-wallet,23.5865,4.761904762,6.9
+884-80-6021,23-03-2019,13:14:00,A,Mumbai,Member,Female,Electronic accessories,73.47,10,734.7,36.735,771.435,E-wallet,36.735,4.761904762,9.5
+588-01-7461,24-03-2019,10:43:00,C,Pune,Normal,Female,Food and beverages,33.98,9,305.82,15.291,321.111,Cash,15.291,4.761904762,4.2
+560-30-5617,24-03-2019,18:27:00,B,Nashik,Normal,Female,Sports and travel,24.77,5,123.85,6.1925,130.0425,Cash,6.1925,4.761904762,8.5
+593-95-4461,24-03-2019,14:49:00,C,Pune,Member,Male,Home and lifestyle,74.86,1,74.86,3.743,78.603,Cash,3.743,4.761904762,6.9
+835-16-0096,24-03-2019,13:48:00,C,Pune,Member,Male,Sports and travel,14.7,5,73.5,3.675,77.175,E-wallet,3.675,4.761904762,8.5
+468-88-0009,24-03-2019,10:29:00,A,Mumbai,Member,Male,Home and lifestyle,65.94,4,263.76,13.188,276.948,Cash,13.188,4.761904762,6
+334-64-2006,24-03-2019,14:22:00,A,Mumbai,Member,Female,Home and lifestyle,70.32,2,140.64,7.032,147.672,E-wallet,7.032,4.761904762,9.6
+725-67-2480,24-03-2019,18:14:00,B,Nashik,Member,Female,Fashion accessories,58.75,6,352.5,17.625,370.125,Credit Card,17.625,4.761904762,5.9
+538-22-0304,24-03-2019,18:27:00,C,Pune,Normal,Male,Electronic accessories,64.95,10,649.5,32.475,681.975,Cash,32.475,4.761904762,5.2
+118-62-1812,24-03-2019,17:56:00,C,Pune,Member,Female,Home and lifestyle,78.38,4,313.52,15.676,329.196,Cash,15.676,4.761904762,7.9
+851-98-3555,24-03-2019,14:08:00,B,Nashik,Normal,Female,Health and beauty,82.88,5,414.4,20.72,435.12,Credit Card,20.72,4.761904762,6.6
+641-62-7288,24-03-2019,13:33:00,B,Nashik,Normal,Male,Home and lifestyle,99.92,6,599.52,29.976,629.496,E-wallet,29.976,4.761904762,7.1
+699-14-3026,25-03-2019,18:30:00,C,Pune,Normal,Male,Electronic accessories,85.39,7,597.73,29.8865,627.6165,E-wallet,29.8865,4.761904762,4.1
+362-58-8315,25-03-2019,10:23:00,C,Pune,Normal,Male,Fashion accessories,76.52,5,382.6,19.13,401.73,Cash,19.13,4.761904762,9.9
+340-66-0321,25-03-2019,13:07:00,A,Mumbai,Member,Male,Electronic accessories,36.36,4,145.44,7.272,152.712,Cash,7.272,4.761904762,7.6
+110-05-6330,25-03-2019,20:18:00,C,Pune,Normal,Female,Food and beverages,39.43,6,236.58,11.829,248.409,Credit Card,11.829,4.761904762,9.4
+282-35-2475,25-03-2019,17:53:00,B,Nashik,Normal,Female,Sports and travel,93.31,2,186.62,9.331,195.951,Cash,9.331,4.761904762,6.3
+134-75-2619,25-03-2019,18:51:00,A,Mumbai,Member,Male,Electronic accessories,19.32,7,135.24,6.762,142.002,Cash,6.762,4.761904762,6.9
+156-95-3964,25-03-2019,15:19:00,A,Mumbai,Normal,Female,Food and beverages,55.39,4,221.56,11.078,232.638,E-wallet,11.078,4.761904762,8
+366-43-6862,25-03-2019,16:32:00,B,Nashik,Normal,Male,Electronic accessories,52.89,4,211.56,10.578,222.138,E-wallet,10.578,4.761904762,6.7
+605-03-2706,25-03-2019,18:02:00,A,Mumbai,Normal,Female,Health and beauty,15.8,3,47.4,2.37,49.77,Cash,2.37,4.761904762,9.5
+163-56-7055,26-03-2019,19:20:00,C,Pune,Member,Male,Fashion accessories,48.71,1,48.71,2.4355,51.1455,Cash,2.4355,4.761904762,4.1
+848-24-9445,26-03-2019,18:03:00,C,Pune,Member,Male,Health and beauty,43.7,2,87.4,4.37,91.77,Cash,4.37,4.761904762,4.9
+411-77-0180,26-03-2019,20:14:00,A,Mumbai,Member,Male,Electronic accessories,72.2,7,505.4,25.27,530.67,E-wallet,25.27,4.761904762,4.3
+449-27-2918,26-03-2019,11:02:00,B,Nashik,Member,Female,Sports and travel,39.12,1,39.12,1.956,41.076,Credit Card,1.956,4.761904762,9.6
+734-91-1155,26-03-2019,10:34:00,B,Nashik,Normal,Female,Electronic accessories,45.71,3,137.13,6.8565,143.9865,Credit Card,6.8565,4.761904762,7.7
+236-27-1144,26-03-2019,10:31:00,C,Pune,Normal,Female,Food and beverages,16.31,9,146.79,7.3395,154.1295,E-wallet,7.3395,4.761904762,8.4
+797-88-0493,26-03-2019,13:54:00,A,Mumbai,Normal,Female,Health and beauty,64.27,4,257.08,12.854,269.934,Cash,12.854,4.761904762,7.7
+487-79-6868,26-03-2019,19:28:00,B,Nashik,Member,Female,Home and lifestyle,12.29,9,110.61,5.5305,116.1405,Credit Card,5.5305,4.761904762,8
+587-73-4862,26-03-2019,11:07:00,A,Mumbai,Member,Female,Health and beauty,10.69,5,53.45,2.6725,56.1225,E-wallet,2.6725,4.761904762,7.6
+760-53-9233,26-03-2019,18:37:00,A,Mumbai,Member,Male,Fashion accessories,41.28,3,123.84,6.192,130.032,Credit Card,6.192,4.761904762,8.5
+807-34-3742,26-03-2019,19:44:00,A,Mumbai,Normal,Male,Fashion accessories,52.38,1,52.38,2.619,54.999,Cash,2.619,4.761904762,5.8
+595-94-9924,26-03-2019,20:21:00,A,Mumbai,Member,Female,Health and beauty,27.73,5,138.65,6.9325,145.5825,Credit Card,6.9325,4.761904762,4.2
+859-97-6048,26-03-2019,14:13:00,C,Pune,Member,Male,Electronic accessories,84.25,2,168.5,8.425,176.925,Credit Card,8.425,4.761904762,5.3
+106-35-6779,27-03-2019,11:26:00,A,Mumbai,Member,Male,Home and lifestyle,44.34,2,88.68,4.434,93.114,Cash,4.434,4.761904762,5.8
+633-44-8566,27-03-2019,20:35:00,A,Mumbai,Member,Male,Food and beverages,49.38,7,345.66,17.283,362.943,Credit Card,17.283,4.761904762,7.3
+238-49-0436,27-03-2019,13:48:00,A,Mumbai,Normal,Male,Health and beauty,32.46,8,259.68,12.984,272.664,Credit Card,12.984,4.761904762,4.9
+423-57-2993,27-03-2019,19:18:00,B,Nashik,Normal,Male,Sports and travel,93.39,6,560.34,28.017,588.357,E-wallet,28.017,4.761904762,10
+278-86-2735,27-03-2019,14:03:00,A,Mumbai,Normal,Female,Food and beverages,52.34,3,157.02,7.851,164.871,Cash,7.851,4.761904762,9.2
+794-32-2436,27-03-2019,15:08:00,B,Nashik,Member,Male,Electronic accessories,55.67,2,111.34,5.567,116.907,E-wallet,5.567,4.761904762,6
+176-64-7711,27-03-2019,19:11:00,B,Nashik,Normal,Male,Food and beverages,32.32,3,96.96,4.848,101.808,Credit Card,4.848,4.761904762,4.3
+186-71-5196,27-03-2019,16:30:00,A,Mumbai,Member,Female,Food and beverages,79.54,2,159.08,7.954,167.034,E-wallet,7.954,4.761904762,6.2
+313-66-9943,27-03-2019,20:29:00,B,Nashik,Member,Female,Food and beverages,29.15,3,87.45,4.3725,91.8225,Credit Card,4.3725,4.761904762,7.3
+702-83-5291,27-03-2019,10:43:00,C,Pune,Member,Male,Fashion accessories,99.82,9,898.38,44.919,943.299,Cash,44.919,4.761904762,6.6
+212-62-1842,28-03-2019,16:44:00,A,Mumbai,Normal,Male,Food and beverages,58.26,6,349.56,17.478,367.038,Cash,17.478,4.761904762,9.9
+573-58-9734,28-03-2019,13:41:00,B,Nashik,Normal,Female,Fashion accessories,30.37,3,91.11,4.5555,95.6655,E-wallet,4.5555,4.761904762,5.1
+633-09-3463,28-03-2019,12:58:00,C,Pune,Normal,Female,Electronic accessories,47.65,3,142.95,7.1475,150.0975,Credit Card,7.1475,4.761904762,9.5
+531-80-1784,28-03-2019,17:38:00,A,Mumbai,Normal,Male,Electronic accessories,26.02,7,182.14,9.107,191.247,Cash,9.107,4.761904762,5.1
+266-76-6436,28-03-2019,13:57:00,C,Pune,Member,Female,Food and beverages,38.6,3,115.8,5.79,121.59,E-wallet,5.79,4.761904762,7.5
+470-32-9057,28-03-2019,15:31:00,A,Mumbai,Member,Male,Food and beverages,51.34,5,256.7,12.835,269.535,Credit Card,12.835,4.761904762,9.1
+544-32-5024,28-03-2019,19:16:00,C,Pune,Member,Female,Food and beverages,49.79,4,199.16,9.958,209.118,Credit Card,9.958,4.761904762,6.4
+420-97-3340,28-03-2019,15:30:00,A,Mumbai,Normal,Female,Food and beverages,71.68,3,215.04,10.752,225.792,Credit Card,10.752,4.761904762,9.2
+857-16-3520,28-03-2019,16:06:00,A,Mumbai,Member,Female,Fashion accessories,71.46,7,500.22,25.011,525.231,E-wallet,25.011,4.761904762,4.5
+333-23-2632,28-03-2019,20:14:00,A,Mumbai,Member,Male,Health and beauty,10.08,7,70.56,3.528,74.088,Cash,3.528,4.761904762,4.2
+829-34-3910,29-03-2019,19:21:00,A,Mumbai,Normal,Female,Health and beauty,71.38,10,713.8,35.69,749.49,Cash,35.69,4.761904762,5.7
+766-85-7061,29-03-2019,10:25:00,B,Nashik,Normal,Male,Health and beauty,87.87,10,878.7,43.935,922.635,E-wallet,43.935,4.761904762,5.1
+727-75-6477,29-03-2019,14:44:00,C,Pune,Normal,Male,Electronic accessories,28.84,4,115.36,5.768,121.128,Cash,5.768,4.761904762,6.4
+291-21-5991,29-03-2019,14:28:00,B,Nashik,Member,Male,Health and beauty,61.29,5,306.45,15.3225,321.7725,Cash,15.3225,4.761904762,7
+425-85-2085,29-03-2019,16:48:00,B,Nashik,Member,Male,Health and beauty,54.86,5,274.3,13.715,288.015,E-wallet,13.715,4.761904762,9.8
+218-59-9410,29-03-2019,16:54:00,A,Mumbai,Member,Female,Home and lifestyle,72.42,3,217.26,10.863,228.123,E-wallet,10.863,4.761904762,8.2
+186-79-9562,29-03-2019,14:06:00,B,Nashik,Normal,Male,Health and beauty,71.77,7,502.39,25.1195,527.5095,Cash,25.1195,4.761904762,8.9
+267-62-7380,29-03-2019,19:12:00,C,Pune,Member,Male,Electronic accessories,82.34,10,823.4,41.17,864.57,E-wallet,41.17,4.761904762,4.3
+743-04-1105,30-03-2019,14:43:00,B,Nashik,Member,Male,Health and beauty,97.22,9,874.98,43.749,918.729,E-wallet,43.749,4.761904762,6
+286-01-5402,30-03-2019,13:22:00,A,Mumbai,Normal,Female,Sports and travel,40.23,7,281.61,14.0805,295.6905,Cash,14.0805,4.761904762,9.6
+731-59-7531,30-03-2019,17:58:00,B,Nashik,Member,Male,Health and beauty,72.57,8,580.56,29.028,609.588,Cash,29.028,4.761904762,4.6
+676-39-6028,30-03-2019,17:04:00,A,Mumbai,Member,Female,Electronic accessories,64.44,5,322.2,16.11,338.31,Cash,16.11,4.761904762,6.6
+131-15-8856,30-03-2019,19:26:00,C,Pune,Member,Female,Food and beverages,72.52,8,580.16,29.008,609.168,Credit Card,29.008,4.761904762,4
+778-89-7974,30-03-2019,14:58:00,C,Pune,Normal,Male,Health and beauty,70.21,6,421.26,21.063,442.323,Cash,21.063,4.761904762,7.4
+642-61-4706,30-03-2019,16:34:00,B,Nashik,Member,Male,Food and beverages,93.4,2,186.8,9.34,196.14,Cash,9.34,4.761904762,5.5
+115-38-7388,30-03-2019,12:51:00,C,Pune,Member,Female,Fashion accessories,10.18,8,81.44,4.072,85.512,Credit Card,4.072,4.761904762,9.5
+291-55-6563,30-03-2019,12:45:00,A,Mumbai,Member,Female,Home and lifestyle,34.42,6,206.52,10.326,216.846,E-wallet,10.326,4.761904762,7.5
+361-85-2571,30-03-2019,10:18:00,A,Mumbai,Normal,Female,Sports and travel,89.48,5,447.4,22.37,469.77,Cash,22.37,4.761904762,7.4
+364-34-2972,30-03-2019,20:37:00,C,Pune,Member,Male,Electronic accessories,96.82,3,290.46,14.523,304.983,Cash,14.523,4.761904762,6.7
